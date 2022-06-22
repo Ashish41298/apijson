@@ -1,4 +1,164 @@
- {
+{
+    "rss": {
+        "channel": {
+            "title": "મારું ગુજરાત | દિવ્ય ભાસ્કર",
+            "link": [
+                "https://www.divyabhaskar.co.in/local/gujarat/",
+                {
+                    "_href": "https://www.divyabhaskar.co.in/rss-v1--category-1035.xml",
+                    "_rel": "self",
+                    "_type": "application/rss+xml",
+                    "__prefix": "atom"
+                }
+            ],
+            "description": {
+                "__cdata": " Gujarat News in Gujarati, ગુજરાત સમાચાર, Latest Gujarat Gujarati News, ગુજરાત ન્યૂઝ "
+            },
+            "language": "gu",
+            "lastBuildDate": "Wed, 22 Jun 2022 13:06:16 +0000",
+            "pubDate": "Wed, 22 Jun 2022 13:06:16 +0000",
+            "image": {
+                "title": "મારું ગુજરાત | દિવ્ય ભાસ્કર",
+                "url": "https://images.bhaskarassets.com/web2images/web-frontend/wide-rss-feed-light-gu.png",
+                "link": "https://www.divyabhaskar.co.in/local/gujarat/"
+            },
+            "item": [
+                {
+                    "title": {
+                        "__cdata": " ફિલ્મ શૂટિંગને લઈને ઘર્ષણ:વડોદરામાં અભિનેતા પ્રતિક ગાંધીની શોર્ટ ફિલ્મ 'સર્કલ'નું પરવાનગી વિના શૂટિંગ શરૂ કરતા વિવાદ, મેયરે પહોંચીને મામલો થાળે પાડ્યો "
+                    },
+                    "link": [
+                        "https://www.divyabhaskar.co.in/local/gujarat/vadodara/news/controversy-erupts-in-vadodara-over-shooting-of-actor-pratik-gandhis-short-film-circle-without-permission-129966562.html",
+                        {
+                            "_href": "https://www.divyabhaskar.co.in/local/gujarat/vadodara/news/controversy-erupts-in-vadodara-over-shooting-of-actor-pratik-gandhis-short-film-circle-without-permission-129966562.html",
+                            "__prefix": "atom"
+                        }
+                    ],
+                    "guid": {
+                        "_isPermaLink": "true",
+                        "__text": "https://www.divyabhaskar.co.in/local/gujarat/vadodara/news/controversy-erupts-in-vadodara-over-shooting-of-actor-pratik-gandhis-short-film-circle-without-permission-129966562.html"
+                    },
+                    "description": {
+                        "__cdata": " વડોદરા મનપાની વડી કચેરી ખાતે શૂંટિગ શરૂ કરતા શાકમાર્કેટ જવાનો ગેટ બંધ કરતા ઘર્ષણ થયું,વિવાદ થતાં ફિલ્મની ટીમે પરવાનગી માટેની જરૂરી ફી ભરી દીધી હતી "
+                    },
+                    "pubDate": "Wed, 22 Jun 2022 15:34:19 +0530",
+                    "content": {
+                        "_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/960/2022/06/22/2_1655891820.jpg",
+                        "_type": "image/jpeg",
+                        "_width": "1000",
+                        "_height": "1000",
+                        "__prefix": "media"
+                    }
+                },
+                {
+                    "title": {
+                        "__cdata": " વધુ ચાર MLA એરલિફ્ટ:મહારાષ્ટ્ર શિવસેનાના બળવાખોર ધારાસભ્ય સહિત 4ને સુરતથી આસામના ગુવાહાટી મોકલાયા "
+                    },
+                    "link": [
+                        "https://www.divyabhaskar.co.in/local/gujarat/surat/news/4-including-maharashtra-shiv-sena-rebel-mla-sent-from-surat-to-guwahati-in-assam-129966724.html",
+                        {
+                            "_href": "https://www.divyabhaskar.co.in/local/gujarat/surat/news/4-including-maharashtra-shiv-sena-rebel-mla-sent-from-surat-to-guwahati-in-assam-129966724.html",
+                            "__prefix": "atom"
+                        }
+                    ],
+                    "guid": {
+                        "_isPermaLink": "true",
+                        "__text": "https://www.divyabhaskar.co.in/local/gujarat/surat/news/4-including-maharashtra-shiv-sena-rebel-mla-sent-from-surat-to-guwahati-in-assam-129966724.html"
+                    },
+                    "description": {
+                        "__cdata": " મહારાષ્ટ્રથી આવેલા ધારાસભ્યોને હોટલમાં રોક્યા બાદ વિમાન માર્ગે મોકલાયા "
+                    },
+                    "pubDate": "Wed, 22 Jun 2022 16:55:00 +0530",
+                    "content": {
+                        "_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/960/2022/06/22/11dramaa_1655896456.gif",
+                        "_type": "image/gif",
+                        "_width": "1000",
+                        "_height": "1000",
+                        "__prefix": "media"
+                    }
+                },
+                {
+                    "title": {
+                        "__cdata": " શાળા પ્રવેશોત્સવ અને MLAની પરીક્ષાની ચર્ચા:આવતીકાલે સાંજે 4 વાગ્યે ગુજરાત ભાજપના MLAની બેઠક મળશે. CM, CR સહિત કેન્દ્રિય નેતાઓ હાજર રહેશે "
+                    },
+                    "link": [
+                        "https://www.divyabhaskar.co.in/local/gujarat/ahmedabad/news/the-meeting-of-gujarat-bjp-mla-will-be-held-tomorrow-at-4-pm-central-leaders-including-cm-cr-will-be-present-129966524.html",
+                        {
+                            "_href": "https://www.divyabhaskar.co.in/local/gujarat/ahmedabad/news/the-meeting-of-gujarat-bjp-mla-will-be-held-tomorrow-at-4-pm-central-leaders-including-cm-cr-will-be-present-129966524.html",
+                            "__prefix": "atom"
+                        }
+                    ],
+                    "guid": {
+                        "_isPermaLink": "true",
+                        "__text": "https://www.divyabhaskar.co.in/local/gujarat/ahmedabad/news/the-meeting-of-gujarat-bjp-mla-will-be-held-tomorrow-at-4-pm-central-leaders-including-cm-cr-will-be-present-129966524.html"
+                    },
+                    "description": {
+                        "__cdata": " મુખ્યમંત્રી નિવાસે યોજાનારી બેઠકમાં તમામ મંત્રીઓ, સાંસદ, ધારાસભ્યને હાજર રહેવા સૂચના અપાઈ,23 જૂનથી 25 જૂન સુધી શાળા પ્રવેશોત્સવ યોજાશે "
+                    },
+                    "pubDate": "Wed, 22 Jun 2022 15:18:05 +0530",
+                    "content": {
+                        "_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/960/2022/06/22/new-project-16_1655891187.jpg",
+                        "_type": "image/jpeg",
+                        "_width": "1000",
+                        "_height": "1000",
+                        "__prefix": "media"
+                    }
+                },
+                {
+                    "title": {
+                        "__cdata": " શિવાજીએ સુરત લૂંટ્યુ ને સુરતે શિવસેનાને લૂંટી લીધી:મહારાષ્ટ્રની શિવસેનાના બે ફાડિયા કરવામાં સફળ, ગુપ્ત રીતે બળવાખોરોને 24 કલાક આશરો આપી પોલિટિકલ માઈલેજ મેળવ્યું "
+                    },
+                    "link": [
+                        "https://www.divyabhaskar.co.in/local/gujarat/surat/news/succeeded-in-splitting-shiv-sena-in-maharashtra-secretly-gave-24-hours-shelter-to-rebels-and-got-political-mileage-129966252.html",
+                        {
+                            "_href": "https://www.divyabhaskar.co.in/local/gujarat/surat/news/succeeded-in-splitting-shiv-sena-in-maharashtra-secretly-gave-24-hours-shelter-to-rebels-and-got-political-mileage-129966252.html",
+                            "__prefix": "atom"
+                        }
+                    ],
+                    "guid": {
+                        "_isPermaLink": "true",
+                        "__text": "https://www.divyabhaskar.co.in/local/gujarat/surat/news/succeeded-in-splitting-shiv-sena-in-maharashtra-secretly-gave-24-hours-shelter-to-rebels-and-got-political-mileage-129966252.html"
+                    },
+                    "description": {
+                        "__cdata": " ગુપ્ત રીતે બળવાખોરોને 24 કલાક આશરો આપીને સુરતે દેશની રાજનીતિનું ધ્યાન ખેંચ્યુ "
+                    },
+                    "pubDate": "Wed, 22 Jun 2022 13:55:00 +0530",
+                    "content": {
+                        "_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/960/2022/06/22/diamond-burse_1655884834.gif",
+                        "_type": "image/gif",
+                        "_width": "1000",
+                        "_height": "1000",
+                        "__prefix": "media"
+                    }
+                },
+                {
+                    "title": {
+                        "__cdata": " શિવસેનાના કાર્યકરનો દાવો:ગુજરાત પોલીસે હોટલમાં શિવસેનાના MLA નીતિન દેશમુખને માર માર્યો, મુંબઈ જવું હતું, પણ ગુવાહાટી લઈ જવાયા "
+                    },
+                    "link": [
+                        "https://www.divyabhaskar.co.in/local/gujarat/ahmedabad/news/gujarat-police-beat-shiv-sena-mla-nitin-deshmukh-at-hotel-wanted-to-go-to-mumbai-but-was-taken-to-guwahati-129966003.html",
+                        {
+                            "_href": "https://www.divyabhaskar.co.in/local/gujarat/ahmedabad/news/gujarat-police-beat-shiv-sena-mla-nitin-deshmukh-at-hotel-wanted-to-go-to-mumbai-but-was-taken-to-guwahati-129966003.html",
+                            "__prefix": "atom"
+                        }
+                    ],
+                    "guid": {
+                        "_isPermaLink": "true",
+                        "__text": "https://www.divyabhaskar.co.in/local/gujarat/ahmedabad/news/gujarat-police-beat-shiv-sena-mla-nitin-deshmukh-at-hotel-wanted-to-go-to-mumbai-but-was-taken-to-guwahati-129966003.html"
+                    },
+                    "description": {
+                        "__cdata": "  "
+                    },
+                    "pubDate": "Wed, 22 Jun 2022 11:50:00 +0530",
+                    "content": {
+                        "_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/960/2022/06/22/local-news-2022730-x-5480110_1655878984.jpg",
+                        "_type": "image/jpeg",
+                        "_width": "1000",
+                        "_height": "1000",
+                        "__prefix": "media"
+                    }
+                },
+                {
                     "title": {
                         "__cdata": " આખી રાત ડ્રામા:ઉદ્ધવના દૂત સુરત ન પહોંચે એ માટે 40 MLA 2700 કિમી દૂર ગુવાહાટીમાં ભાજપના મહેમાન બન્યા! ફોન લઈ લીધા, ફ્લાઇટથી પણ પહોંચવું અઘરું "
                     },
@@ -14,7 +174,7 @@
                         "__text": "https://www.divyabhaskar.co.in/local/gujarat/surat/news/sena-mlas-including-eknath-shinde-will-be-shifted-from-surat-to-129963961.html"
                     },
                     "description": {
-                        "__cdata": " "
+                        "__cdata": "  "
                     },
                     "pubDate": "Wed, 22 Jun 2022 00:01:00 +0530",
                     "content": {
@@ -40,7 +200,9 @@
                         "_isPermaLink": "true",
                         "__text": "https://www.divyabhaskar.co.in/local/gujarat/ahmedabad/news/heavy-rains-expected-in-south-gujarat-from-june-24-to-26-sporadic-rains-in-ahmedabad-gandhinagar-129965807.html"
                     },
-                    "description": "...",
+                    "description": {
+                        "__cdata": " છેલ્લા 24 કલાકમાં 30 તાલુકામાં વરસાદ ખાબક્યો,ગુજરાતમાં ચાલુ સીઝનનો માંડ ચાર ટકા વરસાદ થયો,પાંચ જિલ્લાને બાદ કરતાં 28 જિલ્લા કોરાધાકોર "
+                    },
                     "pubDate": "Wed, 22 Jun 2022 09:34:44 +0530",
                     "content": {
                         "_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/960/2022/06/22/local-news-2022730-x-548016_1655872158.jpg",
@@ -72,6 +234,60 @@
                     "content": {
                         "_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/960/2022/06/21/new-thumb_1655817098.gif",
                         "_type": "image/gif",
+                        "_width": "1000",
+                        "_height": "1000",
+                        "__prefix": "media"
+                    }
+                },
+                {
+                    "title": {
+                        "__cdata": " લોહી લુહાણ યુવકનો વીડિયો વાઈરલ:અમદાવાદ પોલીસે પ્રજા સાથેના સંબંધો સૌહાર્દપૂર્ણ કરવા સેમિનાર યોજ્યો, એ જ દિવસે રાત્રે ટ્રાફિક પોલીસે યુવકને માર્યો "
+                    },
+                    "link": [
+                        "https://www.divyabhaskar.co.in/local/gujarat/ahmedabad/news/ahmedabad-police-organized-a-seminar-to-improve-relations-with-the-people-on-the-same-night-the-traffic-police-killed-the-youth-129966127.html",
+                        {
+                            "_href": "https://www.divyabhaskar.co.in/local/gujarat/ahmedabad/news/ahmedabad-police-organized-a-seminar-to-improve-relations-with-the-people-on-the-same-night-the-traffic-police-killed-the-youth-129966127.html",
+                            "__prefix": "atom"
+                        }
+                    ],
+                    "guid": {
+                        "_isPermaLink": "true",
+                        "__text": "https://www.divyabhaskar.co.in/local/gujarat/ahmedabad/news/ahmedabad-police-organized-a-seminar-to-improve-relations-with-the-people-on-the-same-night-the-traffic-police-killed-the-youth-129966127.html"
+                    },
+                    "description": {
+                        "__cdata": "  "
+                    },
+                    "pubDate": "Wed, 22 Jun 2022 12:25:20 +0530",
+                    "content": {
+                        "_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/960/2022/06/22/new-project-7_1655880831.jpg",
+                        "_type": "image/jpeg",
+                        "_width": "1000",
+                        "_height": "1000",
+                        "__prefix": "media"
+                    }
+                },
+                {
+                    "title": {
+                        "__cdata": " 25 હજાર કિલો મગનો પ્રસાદ અપાશે:અમદાવાદમાં ભગવાન જગન્નાથની રથયાત્રામાં હજારો કિલો મગ પ્રસાદનું વિતરણ થશે, લોકો મંદિરે મગ પહોંચાડવા લાગ્યા "
+                    },
+                    "link": [
+                        "https://www.divyabhaskar.co.in/local/gujarat/ahmedabad/news/thousands-of-kg-of-mung-bean-prasad-will-be-distributed-in-lord-jagannaths-rathyatra-in-ahmedabad-129966471.html",
+                        {
+                            "_href": "https://www.divyabhaskar.co.in/local/gujarat/ahmedabad/news/thousands-of-kg-of-mung-bean-prasad-will-be-distributed-in-lord-jagannaths-rathyatra-in-ahmedabad-129966471.html",
+                            "__prefix": "atom"
+                        }
+                    ],
+                    "guid": {
+                        "_isPermaLink": "true",
+                        "__text": "https://www.divyabhaskar.co.in/local/gujarat/ahmedabad/news/thousands-of-kg-of-mung-bean-prasad-will-be-distributed-in-lord-jagannaths-rathyatra-in-ahmedabad-129966471.html"
+                    },
+                    "description": {
+                        "__cdata": "  "
+                    },
+                    "pubDate": "Wed, 22 Jun 2022 14:55:29 +0530",
+                    "content": {
+                        "_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/960/2022/06/22/prasad_1655889864.jpg",
+                        "_type": "image/jpeg",
                         "_width": "1000",
                         "_height": "1000",
                         "__prefix": "media"
@@ -160,6 +376,33 @@
                 },
                 {
                     "title": {
+                        "__cdata": " DCP સાહેબ મને ન્યાય અપાવો:અમદાવાદમાં બુટલેગરે પોલીસ તોડ કરતી હોવાનો વીડિયો વાઇરલ કર્યો, કહ્યું-મારી પાસેથી 50 હજાર લીધા "
+                    },
+                    "link": [
+                        "https://www.divyabhaskar.co.in/local/gujarat/ahmedabad/news/a-bootlegger-viral-a-video-and-saying-police-took-rs-50000-from-me-in-ahmedabad-129966268.html",
+                        {
+                            "_href": "https://www.divyabhaskar.co.in/local/gujarat/ahmedabad/news/a-bootlegger-viral-a-video-and-saying-police-took-rs-50000-from-me-in-ahmedabad-129966268.html",
+                            "__prefix": "atom"
+                        }
+                    ],
+                    "guid": {
+                        "_isPermaLink": "true",
+                        "__text": "https://www.divyabhaskar.co.in/local/gujarat/ahmedabad/news/a-bootlegger-viral-a-video-and-saying-police-took-rs-50000-from-me-in-ahmedabad-129966268.html"
+                    },
+                    "description": {
+                        "__cdata": "  "
+                    },
+                    "pubDate": "Wed, 22 Jun 2022 13:28:48 +0530",
+                    "content": {
+                        "_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/960/2022/06/22/bootlegar_1655884662.jpg",
+                        "_type": "image/jpeg",
+                        "_width": "1000",
+                        "_height": "1000",
+                        "__prefix": "media"
+                    }
+                },
+                {
+                    "title": {
                         "__cdata": " ભાસ્કર ઇન્ટરવ્યુ:બાળપણમાં પિતાએ કહેલી 'પાંચ આંગળીની તાકાત’ની વાતે પરિવારને હંમેશાં અતૂટ રાખ્યો છે "
                     },
                     "link": [
@@ -201,7 +444,7 @@
                         "__text": "https://www.divyabhaskar.co.in/local/gujarat/ahmedabad/news/lets-be-one-lets-be-good-lets-get-the-grace-of-god-by-chanting-the-mantra-of-family-unity-mahant-swami-maharaj-129964091.html"
                     },
                     "description": {
-                        "__cdata": " "
+                        "__cdata": "  "
                     },
                     "pubDate": "Wed, 22 Jun 2022 04:00:00 +0530",
                     "content": {
@@ -255,12 +498,12 @@
                         "__text": "https://www.divyabhaskar.co.in/local/gujarat/jamnagar/news/the-young-girl-got-drunk-and-in-rameshwarnagar-the-young-lady-called-the-term-129963962.html"
                     },
                     "description": {
-                        "__cdata": " "
+                        "__cdata": "  "
                     },
                     "pubDate": "Wed, 22 Jun 2022 04:00:00 +0530",
                     "content": {
-                        "_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/960/2022/06/21/orig_20_1655835990.jpg",
-                        "_type": "image/jpeg",
+                        "_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/960/2022/06/22/ae-files13-06-2022730-x-54831_1655881690.gif",
+                        "_type": "image/gif",
                         "_width": "1000",
                         "_height": "1000",
                         "__prefix": "media"
@@ -282,7 +525,7 @@
                         "__text": "https://www.divyabhaskar.co.in/local/gujarat/gandhinagar/news/hrishikesh-patels-report-is-positive-he-is-undergoing-treatment-at-home-129964855.html"
                     },
                     "description": {
-                        "__cdata": " "
+                        "__cdata": "  "
                     },
                     "pubDate": "Wed, 22 Jun 2022 04:00:00 +0530",
                     "content": {
@@ -322,25 +565,25 @@
                 },
                 {
                     "title": {
-                        "__cdata": " તળાવમાંથી મળેલા શિવલિંગનો કિસ્સો:બોરસદના અલારસામાં દર્શનાર્થીઓએ ભવ્ય શિવ મંદિર નિર્માણનો સંકલ્પ કર્યોં "
+                        "__cdata": " પોલીસનો નવતર પ્રયોગ:અમદાવાદમાં રથયાત્રા દરમિયાન નશીલા પદાર્થનું સેવન કરીને આવનારને ડ્રગ્સ ડિવાઈસ કિટથી પકડી લેવાશે "
                     },
                     "link": [
-                        "https://www.divyabhaskar.co.in/local/gujarat/anand/borsad/news/in-alarsa-the-visitors-decided-to-build-a-grand-shiva-temple-129964933.html",
+                        "https://www.divyabhaskar.co.in/local/gujarat/ahmedabad/news/drug-device-kits-will-be-used-to-apprehend-drug-addicts-during-rath-yatra-in-ahmedabad-129966996.html",
                         {
-                            "_href": "https://www.divyabhaskar.co.in/local/gujarat/anand/borsad/news/in-alarsa-the-visitors-decided-to-build-a-grand-shiva-temple-129964933.html",
+                            "_href": "https://www.divyabhaskar.co.in/local/gujarat/ahmedabad/news/drug-device-kits-will-be-used-to-apprehend-drug-addicts-during-rath-yatra-in-ahmedabad-129966996.html",
                             "__prefix": "atom"
                         }
                     ],
                     "guid": {
                         "_isPermaLink": "true",
-                        "__text": "https://www.divyabhaskar.co.in/local/gujarat/anand/borsad/news/in-alarsa-the-visitors-decided-to-build-a-grand-shiva-temple-129964933.html"
+                        "__text": "https://www.divyabhaskar.co.in/local/gujarat/ahmedabad/news/drug-device-kits-will-be-used-to-apprehend-drug-addicts-during-rath-yatra-in-ahmedabad-129966996.html"
                     },
                     "description": {
-                        "__cdata": " "
+                        "__cdata": " ડ્રગ્સ ડિવાઈસથી માત્ર 9 મિનિટમાં વ્યક્તિએ ડ્રગ્સનું સેવન કર્યું છે કે નહીં ખબર પડી જશે "
                     },
-                    "pubDate": "Wed, 22 Jun 2022 04:00:00 +0530",
+                    "pubDate": "Wed, 22 Jun 2022 18:05:42 +0530",
                     "content": {
-                        "_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/960/2022/06/22/orig_0_1655848092.jpg",
+                        "_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/960/2022/06/22/testing-000_1655901280.jpg",
                         "_type": "image/jpeg",
                         "_width": "1000",
                         "_height": "1000",
@@ -349,25 +592,25 @@
                 },
                 {
                     "title": {
-                        "__cdata": " પરિવારની શક્તિને દિવ્ય ભાસ્કરની સલામ:વાચકોએ મોકલેલા એવા કિસ્સા, જે દર્શાવે છે કે પરિવારના સપોર્ટથી જીવનનો કોઈપણ જંગ લડી શકાય છે "
+                        "__cdata": " જામનગર મનપાનું તંત્ર ક્યારે સુધરશે?:રખડતા પશુઓ લોકોના જીવના દુશ્મન બન્યા હોવા છતાં સ્થિતિ જૈસે થે, લોકોએ સાવધાન રહેવું જરુરી "
                     },
                     "link": [
-                        "https://www.divyabhaskar.co.in/local/gujarat/ahmedabad/news/cases-sent-by-readers-which-show-that-any-battle-of-life-can-be-fought-with-the-support-of-family-129965591.html",
+                        "https://www.divyabhaskar.co.in/local/gujarat/jamnagar/news/despite-the-fact-that-stray-animals-have-become-the-enemy-of-human-life-people-need-to-be-careful-129966265.html",
                         {
-                            "_href": "https://www.divyabhaskar.co.in/local/gujarat/ahmedabad/news/cases-sent-by-readers-which-show-that-any-battle-of-life-can-be-fought-with-the-support-of-family-129965591.html",
+                            "_href": "https://www.divyabhaskar.co.in/local/gujarat/jamnagar/news/despite-the-fact-that-stray-animals-have-become-the-enemy-of-human-life-people-need-to-be-careful-129966265.html",
                             "__prefix": "atom"
                         }
                     ],
                     "guid": {
                         "_isPermaLink": "true",
-                        "__text": "https://www.divyabhaskar.co.in/local/gujarat/ahmedabad/news/cases-sent-by-readers-which-show-that-any-battle-of-life-can-be-fought-with-the-support-of-family-129965591.html"
+                        "__text": "https://www.divyabhaskar.co.in/local/gujarat/jamnagar/news/despite-the-fact-that-stray-animals-have-become-the-enemy-of-human-life-people-need-to-be-careful-129966265.html"
                     },
                     "description": {
-                        "__cdata": " પરિવારે સમય સાચવી લીધો, નહીં તો ખબર નહીં શું થાત... ખરા સમયે કામ આવનારાં કુટુંબીજનોના હૃદયસ્પર્શી પ્રસંગો "
+                        "__cdata": " રખડતા ઢોરના ત્રાસમાંથી મુક્ત કરાવવા શહેરીજનોની પોકાર "
                     },
-                    "pubDate": "Wed, 22 Jun 2022 06:30:20 +0530",
+                    "pubDate": "Wed, 22 Jun 2022 13:25:58 +0530",
                     "content": {
-                        "_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/960/2022/06/22/orig_47_1655859609.jpg",
+                        "_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/960/2022/06/22/20eed3c6-a406-444f-9ccc-fee9e6001390_1655882769434.jpg",
                         "_type": "image/jpeg",
                         "_width": "1000",
                         "_height": "1000",
@@ -376,25 +619,25 @@
                 },
                 {
                     "title": {
-                        "__cdata": " PIને તપાસ સોંપાતાં ભાંડો ફૂટ્યો:વડોદરામાં ટ્રાફિકની મહિલા કર્મી 2 મહિના ગેરહાજર તોય પગાર ચૂકવાયો, રિપોર્ટ એસીપીને સુપરત કરાયો "
+                        "__cdata": " ડિમોલીશન:રાજકોટના માંડા ડુંગરમાં તંત્રનું બુલડોઝર ફર્યું, 15 મકાનો અને બે મંદિર તોડી પડાયા, 2500 ચો.મી.ની જમીન ખુલ્લી કરાવાઈ "
                     },
                     "link": [
-                        "https://www.divyabhaskar.co.in/local/gujarat/vadodara/news/female-traffic-worker-absent-for-2-months-and-paid-salary-129965408.html",
+                        "https://www.divyabhaskar.co.in/local/gujarat/rajkot/news/tantra-bulldozer-returns-to-rajkots-manda-dungar-15-houses-and-two-temples-demolished-2500-sq-m-land-cleared-129966984.html",
                         {
-                            "_href": "https://www.divyabhaskar.co.in/local/gujarat/vadodara/news/female-traffic-worker-absent-for-2-months-and-paid-salary-129965408.html",
+                            "_href": "https://www.divyabhaskar.co.in/local/gujarat/rajkot/news/tantra-bulldozer-returns-to-rajkots-manda-dungar-15-houses-and-two-temples-demolished-2500-sq-m-land-cleared-129966984.html",
                             "__prefix": "atom"
                         }
                     ],
                     "guid": {
                         "_isPermaLink": "true",
-                        "__text": "https://www.divyabhaskar.co.in/local/gujarat/vadodara/news/female-traffic-worker-absent-for-2-months-and-paid-salary-129965408.html"
+                        "__text": "https://www.divyabhaskar.co.in/local/gujarat/rajkot/news/tantra-bulldozer-returns-to-rajkots-manda-dungar-15-houses-and-two-temples-demolished-2500-sq-m-land-cleared-129966984.html"
                     },
                     "description": {
-                        "__cdata": " પોઇન્ટ પર હાજર રહેતાં ન હોવાની અરજી કરાઈ હતી,તપાસ શરૂ કરાતાં મહિલા કર્મચારી માંદગીની રજા પર ઊતરી ગયાં "
+                        "__cdata": " 37 લોકોએ દબાણ કરતા પૂર્વ મામલતદારે દબાણ હટાવ્યા "
                     },
-                    "pubDate": "Wed, 22 Jun 2022 05:20:34 +0530",
+                    "pubDate": "Wed, 22 Jun 2022 18:01:12 +0530",
                     "content": {
-                        "_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/960/2022/06/22/53_1655860241.jpg",
+                        "_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/960/2022/06/22/12_1655901048.jpg",
                         "_type": "image/jpeg",
                         "_width": "1000",
                         "_height": "1000",
@@ -403,25 +646,25 @@
                 },
                 {
                     "title": {
-                        "__cdata": " શિવસેનાના કાર્યકરનો દાવો:ગુજરાત પોલીસે હોટલમાં શિવસેનાના MLA નીતિન દેશમુખને માર માર્યો, મુંબઈ જવું હતું પણ ગુવાહાટી લઈ જવાયા "
+                        "__cdata": " તસ્કરોનો તરખાટ:ભાવનગરમાં ભંગારના ગોડાઉનમાં તસ્કરોએ હાથફેરો કર્યો, ચોરીનો સામાન ભરી રીક્ષા સાથે નાસી છૂટ્યાં "
                     },
                     "link": [
-                        "https://www.divyabhaskar.co.in/local/gujarat/ahmedabad/news/gujarat-police-beat-shiv-sena-mla-nitin-deshmukh-at-hotel-wanted-to-go-to-mumbai-but-was-taken-to-guwahati-129966003.html",
+                        "https://www.divyabhaskar.co.in/local/gujarat/bhavnagar/news/scrap-godown-in-bhavnagar-flee-with-rickshaw-loaded-with-stolen-129966961.html",
                         {
-                            "_href": "https://www.divyabhaskar.co.in/local/gujarat/ahmedabad/news/gujarat-police-beat-shiv-sena-mla-nitin-deshmukh-at-hotel-wanted-to-go-to-mumbai-but-was-taken-to-guwahati-129966003.html",
+                            "_href": "https://www.divyabhaskar.co.in/local/gujarat/bhavnagar/news/scrap-godown-in-bhavnagar-flee-with-rickshaw-loaded-with-stolen-129966961.html",
                             "__prefix": "atom"
                         }
                     ],
                     "guid": {
                         "_isPermaLink": "true",
-                        "__text": "https://www.divyabhaskar.co.in/local/gujarat/ahmedabad/news/gujarat-police-beat-shiv-sena-mla-nitin-deshmukh-at-hotel-wanted-to-go-to-mumbai-but-was-taken-to-guwahati-129966003.html"
+                        "__text": "https://www.divyabhaskar.co.in/local/gujarat/bhavnagar/news/scrap-godown-in-bhavnagar-flee-with-rickshaw-loaded-with-stolen-129966961.html"
                     },
                     "description": {
-                        "__cdata": " "
+                        "__cdata": " ગોડાઉનમાંથી લોખંડ-મેટલનો ભંગાર તેમજ રીક્ષા મળી 50 હજારની ચોરી "
                     },
-                    "pubDate": "Wed, 22 Jun 2022 11:50:00 +0530",
+                    "pubDate": "Wed, 22 Jun 2022 17:51:16 +0530",
                     "content": {
-                        "_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/960/2022/06/22/local-news-2022730-x-5480110_1655878984.jpg",
+                        "_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/960/2022/06/22/_1655900804.jpg",
                         "_type": "image/jpeg",
                         "_width": "1000",
                         "_height": "1000",
@@ -430,25 +673,25 @@
                 },
                 {
                     "title": {
-                        "__cdata": " 'લાવો હું તમને પૈસા ઉપાડી દઉ':જૂનાગઢમાં વેપારી ATMમાં પૈસા ઉપાડના ગયા, અંગ્રેજી ન આવડતા ગઠિયો કળા કરી ગયો "
+                        "__cdata": " દારૂએ આગ લગાવી:સુરતમાં દોડતી રિક્ષાના એન્જિનમાં મૂકેલી દારૂની બોટલ ફૂટતા આગ લાગી, 80 બાટલી ઝડપાઈ "
                     },
                     "link": [
-                        "https://www.divyabhaskar.co.in/local/gujarat/junagadh/news/in-junagadh-the-merchant-went-to-withdraw-money-from-the-atm-did-not-know-english-and-got-into-arthritis-129966027.html",
+                        "https://www.divyabhaskar.co.in/local/gujarat/surat/news/bottle-of-liquor-placed-in-the-engine-of-a-rickshaw-running-in-surat-burst-into-flames-80-bottles-seized-129966908.html",
                         {
-                            "_href": "https://www.divyabhaskar.co.in/local/gujarat/junagadh/news/in-junagadh-the-merchant-went-to-withdraw-money-from-the-atm-did-not-know-english-and-got-into-arthritis-129966027.html",
+                            "_href": "https://www.divyabhaskar.co.in/local/gujarat/surat/news/bottle-of-liquor-placed-in-the-engine-of-a-rickshaw-running-in-surat-burst-into-flames-80-bottles-seized-129966908.html",
                             "__prefix": "atom"
                         }
                     ],
                     "guid": {
                         "_isPermaLink": "true",
-                        "__text": "https://www.divyabhaskar.co.in/local/gujarat/junagadh/news/in-junagadh-the-merchant-went-to-withdraw-money-from-the-atm-did-not-know-english-and-got-into-arthritis-129966027.html"
+                        "__text": "https://www.divyabhaskar.co.in/local/gujarat/surat/news/bottle-of-liquor-placed-in-the-engine-of-a-rickshaw-running-in-surat-burst-into-flames-80-bottles-seized-129966908.html"
                     },
                     "description": {
-                        "__cdata": " વેપારીના એટીએમ કાર્ડ થકી ત્રણ ટ્રાન્જેક્શન કરી 30 હજારથી વધુની રકમ ઉપાડી લીધી "
+                        "__cdata": " સીએનજી રીક્ષા હોય સ્પાર્ક મળતા 15 બોટલ તૂટી ગઈ, રિક્ષા ચાલકની ફરાર "
                     },
-                    "pubDate": "Wed, 22 Jun 2022 11:38:19 +0530",
+                    "pubDate": "Wed, 22 Jun 2022 17:34:23 +0530",
                     "content": {
-                        "_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/960/2022/06/22/2ef7674a-8f17-4b49-8732-3b7b2c070cc1_1655873943383.jpg",
+                        "_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/960/2022/06/22/01_1655897844.jpg",
                         "_type": "image/jpeg",
                         "_width": "1000",
                         "_height": "1000",
@@ -457,25 +700,160 @@
                 },
                 {
                     "title": {
-                        "__cdata": " PMનો ડ્રિમ પ્રોજેક્ટ અંધારામાં:રાજકોટમાં લાઇટ હાઉસ પ્રોજેકટ 6 માસથી અટવાયો, મેયરે કહ્યું,'કોરોના અને રો મટિરિયલમાં ભાવ વધારાના કારણે મોડું થયું' "
+                        "__cdata": " ડેપ્યુટી કમિશનરને હટાવવા આવેદનપત્ર:જામનગરમાં રખડતા ઢોરના ત્રાસ અંગે મિલિભગત હોવાની તપાસની માગ સાથે પદેથી રદ કરવા વિપક્ષની રજૂઆત "
                     },
                     "link": [
-                        "https://www.divyabhaskar.co.in/local/gujarat/rajkot/news/the-light-house-project-in-rajkot-has-been-stalled-for-six-months-the-mayor-said-129965995.html",
+                        "https://www.divyabhaskar.co.in/local/gujarat/jamnagar/news/oppositions-demand-for-removal-of-post-with-demand-for-investigation-into-collusion-in-the-harassment-of-stray-cattle-in-jamnagar-129966967.html",
                         {
-                            "_href": "https://www.divyabhaskar.co.in/local/gujarat/rajkot/news/the-light-house-project-in-rajkot-has-been-stalled-for-six-months-the-mayor-said-129965995.html",
+                            "_href": "https://www.divyabhaskar.co.in/local/gujarat/jamnagar/news/oppositions-demand-for-removal-of-post-with-demand-for-investigation-into-collusion-in-the-harassment-of-stray-cattle-in-jamnagar-129966967.html",
                             "__prefix": "atom"
                         }
                     ],
                     "guid": {
                         "_isPermaLink": "true",
-                        "__text": "https://www.divyabhaskar.co.in/local/gujarat/rajkot/news/the-light-house-project-in-rajkot-has-been-stalled-for-six-months-the-mayor-said-129965995.html"
+                        "__text": "https://www.divyabhaskar.co.in/local/gujarat/jamnagar/news/oppositions-demand-for-removal-of-post-with-demand-for-investigation-into-collusion-in-the-harassment-of-stray-cattle-in-jamnagar-129966967.html"
                     },
                     "description": {
-                        "__cdata": " 1 જાન્યુઆરી 2021ના રોજ પ્રધાનમંત્રી નરેન્દ્ર મોદીએ ખાતમુહૂર્ત કર્યું હતું,એક વર્ષમાં આ પ્રોજેક્ટનું કામ પૂર્ણ કરવાનું હતું, જો કે નિયત સમય કરતા 7 મહિના મોડું થશે "
+                        "__cdata": "  "
                     },
-                    "pubDate": "Wed, 22 Jun 2022 11:21:08 +0530",
+                    "pubDate": "Wed, 22 Jun 2022 17:54:20 +0530",
                     "content": {
-                        "_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/960/2022/06/22/local-news-2022730-x-548018_1655878773.gif",
+                        "_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/960/2022/06/22/19e79ef5-7df4-4cb0-9fe1-2aa275d1c196_1655895702659.jpg",
+                        "_type": "image/jpeg",
+                        "_width": "1000",
+                        "_height": "1000",
+                        "__prefix": "media"
+                    }
+                },
+                {
+                    "title": {
+                        "__cdata": " રાજકોટ ક્રાઈમ ન્યુઝ:મચ્છોનગરમાં 14 વર્ષીય સગીરાએ ગળેફાંસો લગાવી આપઘાત કર્યો, કારણ અકબંધ "
+                    },
+                    "link": [
+                        "https://www.divyabhaskar.co.in/local/gujarat/rajkot/news/14-year-old-sagira-commits-suicide-by-hanging-in-machhonagar-129966957.html",
+                        {
+                            "_href": "https://www.divyabhaskar.co.in/local/gujarat/rajkot/news/14-year-old-sagira-commits-suicide-by-hanging-in-machhonagar-129966957.html",
+                            "__prefix": "atom"
+                        }
+                    ],
+                    "guid": {
+                        "_isPermaLink": "true",
+                        "__text": "https://www.divyabhaskar.co.in/local/gujarat/rajkot/news/14-year-old-sagira-commits-suicide-by-hanging-in-machhonagar-129966957.html"
+                    },
+                    "description": {
+                        "__cdata": " મવડીમાં એક સપ્તાહ પહેલા થયેલ ચોરીનો ભેદ ઉકેલાયો, રૂ.95,500ના મુદ્દામાલ સાથે આરોપી ઝપડાયો,માનસિક બિમારીથી પીડિત વૃધ્ધાએ ગળેફાંસો લગાવી જિંદગી ટૂંકાવી "
+                    },
+                    "pubDate": "Wed, 22 Jun 2022 17:50:36 +0530",
+                    "content": {
+                        "_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/960/2022/06/22/poisen_1655900394.jpeg",
+                        "_type": "image/jpeg",
+                        "_width": "1000",
+                        "_height": "1000",
+                        "__prefix": "media"
+                    }
+                },
+                {
+                    "title": {
+                        "__cdata": " મેઘને મનાવવા માસૂમોનાં મનામણાં:બનાસકાંઠામાં વરસાદને રીઝવવા બાળકોએ ઢુંઢીયા બાપજી નીકાળ્યા, ઘરે ઘરે ફરીને ભીંજાઈને મેઘરાજાને પધારવા વિનંતી કરી "
+                    },
+                    "link": [
+                        "https://www.divyabhaskar.co.in/local/gujarat/banaskantha/news/in-order-to-save-the-rain-in-banaskantha-the-children-took-out-dhundhiya-bapji-went-from-house-to-house-got-wet-and-requested-megharaja-to-come-129966934.html",
+                        {
+                            "_href": "https://www.divyabhaskar.co.in/local/gujarat/banaskantha/news/in-order-to-save-the-rain-in-banaskantha-the-children-took-out-dhundhiya-bapji-went-from-house-to-house-got-wet-and-requested-megharaja-to-come-129966934.html",
+                            "__prefix": "atom"
+                        }
+                    ],
+                    "guid": {
+                        "_isPermaLink": "true",
+                        "__text": "https://www.divyabhaskar.co.in/local/gujarat/banaskantha/news/in-order-to-save-the-rain-in-banaskantha-the-children-took-out-dhundhiya-bapji-went-from-house-to-house-got-wet-and-requested-megharaja-to-come-129966934.html"
+                    },
+                    "description": {
+                        "__cdata": " વડવાઓની પ્રથા પ્રમાણે ઢુંઢીયા બાપજીને રીઝવવામાં આવે તો વરસાદ આવે તેવી માન્યતા,ગ્રામ્ય વિસ્તારોમાં ઘરે-ઘરે ઢુંઢીયા બાપજીનું સ્વાગત કરાય છે, રિવાજ પ્રમાણે વિધિ કરાય છે "
+                    },
+                    "pubDate": "Wed, 22 Jun 2022 17:43:08 +0530",
+                    "content": {
+                        "_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/960/2022/06/22/77848af4-8f51-49b7-bf36-9f7afa33b59f_1655896738226.jpg",
+                        "_type": "image/jpeg",
+                        "_width": "1000",
+                        "_height": "1000",
+                        "__prefix": "media"
+                    }
+                },
+                {
+                    "title": {
+                        "__cdata": " સુ:ખદ મિલન:PUB-G ગેમ દ્વારા યુવકોના સંપર્કમાં આવેલી બે બંગાળી બહેનો ઘરેથી ભાગી નવસારી પહોંચી, પોલીસે માંડ મનાવી માતા-પિતાને સોંપી "
+                    },
+                    "link": [
+                        "https://www.divyabhaskar.co.in/local/gujarat/navsari/news/two-bengali-sisters-who-came-in-contact-with-youth-through-pub-g-game-ran-away-from-home-and-reached-navsari-sakhi-one-stop-handed-back-to-family-129966644.html",
+                        {
+                            "_href": "https://www.divyabhaskar.co.in/local/gujarat/navsari/news/two-bengali-sisters-who-came-in-contact-with-youth-through-pub-g-game-ran-away-from-home-and-reached-navsari-sakhi-one-stop-handed-back-to-family-129966644.html",
+                            "__prefix": "atom"
+                        }
+                    ],
+                    "guid": {
+                        "_isPermaLink": "true",
+                        "__text": "https://www.divyabhaskar.co.in/local/gujarat/navsari/news/two-bengali-sisters-who-came-in-contact-with-youth-through-pub-g-game-ran-away-from-home-and-reached-navsari-sakhi-one-stop-handed-back-to-family-129966644.html"
+                    },
+                    "description": {
+                        "__cdata": " 08 જુનના રોજ કોઈને જાણ કર્યા વગર ઘરેથી નીકળી ગઈ હતી "
+                    },
+                    "pubDate": "Wed, 22 Jun 2022 16:07:45 +0530",
+                    "content": {
+                        "_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/960/2022/06/22/whatsapp-image-2022-06-22-at-31825-pm_1655894224.jpeg",
+                        "_type": "image/jpeg",
+                        "_width": "1000",
+                        "_height": "1000",
+                        "__prefix": "media"
+                    }
+                },
+                {
+                    "title": {
+                        "__cdata": " CCTVમાં કેદ ગૌ તસ્કરી:વલસાડમાં ફરી ગૌ તસ્કરો સક્રિય થયા, કારની ડેકીમાં ગૌવંશને નાખી ઉઠાવી ગયા "
+                    },
+                    "link": [
+                        "https://www.divyabhaskar.co.in/local/gujarat/valsad/news/of-smuggling-of-cows-in-chhipwad-of-valsad-comes-to-light-in-the-early-129966911.html",
+                        {
+                            "_href": "https://www.divyabhaskar.co.in/local/gujarat/valsad/news/of-smuggling-of-cows-in-chhipwad-of-valsad-comes-to-light-in-the-early-129966911.html",
+                            "__prefix": "atom"
+                        }
+                    ],
+                    "guid": {
+                        "_isPermaLink": "true",
+                        "__text": "https://www.divyabhaskar.co.in/local/gujarat/valsad/news/of-smuggling-of-cows-in-chhipwad-of-valsad-comes-to-light-in-the-early-129966911.html"
+                    },
+                    "description": {
+                        "__cdata": " સ્થાનિક લોકોએ પરોઢિયે વિસ્તારમાં પેટ્રોલિંગ વધારવા માંગ​​​​​​,ગૌ તસ્કરો ફરી સક્રિય બન્યા, સ્થાનિકોએ સીટી પોલીસ અને SPને CCTV ફૂટેજ આપી તસ્કરી અટકાવવા માંગ કરી "
+                    },
+                    "pubDate": "Wed, 22 Jun 2022 17:34:32 +0530",
+                    "content": {
+                        "_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/960/2022/06/22/990c7cd5-5fc1-4014-998c-69f1d83581e1_1655894541851.jpg",
+                        "_type": "image/jpeg",
+                        "_width": "1000",
+                        "_height": "1000",
+                        "__prefix": "media"
+                    }
+                },
+                {
+                    "title": {
+                        "__cdata": " ચક્રવાતનો લાઈવ વીડિયો:લખતર પંથકમાં ભયાવહ ચક્રવાત ત્રાટક્યું, અનેક કાચા મકાનોના છાપરા ઉડ્યા, 18 જેટલા વીજપોલ ધરાથાઈ થતા ગ્રામ્ય વિસ્તારમાં અંધારપટ છવાયો "
+                    },
+                    "link": [
+                        "https://www.divyabhaskar.co.in/local/gujarat/surendranagar/news/fear-and-curiosity-among-the-people-who-were-struck-by-the-cyclone-in-lakhtar-panth-of-surendranagar-129966795.html",
+                        {
+                            "_href": "https://www.divyabhaskar.co.in/local/gujarat/surendranagar/news/fear-and-curiosity-among-the-people-who-were-struck-by-the-cyclone-in-lakhtar-panth-of-surendranagar-129966795.html",
+                            "__prefix": "atom"
+                        }
+                    ],
+                    "guid": {
+                        "_isPermaLink": "true",
+                        "__text": "https://www.divyabhaskar.co.in/local/gujarat/surendranagar/news/fear-and-curiosity-among-the-people-who-were-struck-by-the-cyclone-in-lakhtar-panth-of-surendranagar-129966795.html"
+                    },
+                    "description": {
+                        "__cdata": " આકાશી ચક્રવાતને લઈ લોકોમાં કુતૂહલ સાથે ભયનો માહોલ "
+                    },
+                    "pubDate": "Wed, 22 Jun 2022 17:30:20 +0530",
+                    "content": {
+                        "_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/960/2022/06/22/11khana_1655900890.gif",
                         "_type": "image/gif",
                         "_width": "1000",
                         "_height": "1000",
@@ -484,25 +862,52 @@
                 },
                 {
                     "title": {
-                        "__cdata": " ચૂંટણીના પડઘમ વચ્ચે પાલિકાની તૈયારી:મહેસાણા નગરપાલિકાના કર્મચારીઓને 70 મતદાન મથકની ચકાસણી કરવાની કામગીરી સોંપાઈ "
+                        "__cdata": " પોરબંદરનું વહાણ ઓમાનના દરિયામાં ડૂબ્યું:સલાલા બંદરથી જૂના વાહનો ભરી યમન જઈ રહેલા 'રાજ સાગર' વહાણની જળસમાધિ, કેપ્ટન અને એક ક્રુ મેમ્બરના મોત "
                     },
                     "link": [
-                        "https://www.divyabhaskar.co.in/local/gujarat/mehsana/news/employees-of-mehsana-municipality-were-assigned-to-inspect-70-polling-stations-129965987.html",
+                        "https://www.divyabhaskar.co.in/local/gujarat/porbandar/news/capture-of-raj-sagar-ship-carrying-old-vehicles-from-salala-port-to-yemen-captain-and-a-crew-member-killed-129966813.html",
                         {
-                            "_href": "https://www.divyabhaskar.co.in/local/gujarat/mehsana/news/employees-of-mehsana-municipality-were-assigned-to-inspect-70-polling-stations-129965987.html",
+                            "_href": "https://www.divyabhaskar.co.in/local/gujarat/porbandar/news/capture-of-raj-sagar-ship-carrying-old-vehicles-from-salala-port-to-yemen-captain-and-a-crew-member-killed-129966813.html",
                             "__prefix": "atom"
                         }
                     ],
                     "guid": {
                         "_isPermaLink": "true",
-                        "__text": "https://www.divyabhaskar.co.in/local/gujarat/mehsana/news/employees-of-mehsana-municipality-were-assigned-to-inspect-70-polling-stations-129965987.html"
+                        "__text": "https://www.divyabhaskar.co.in/local/gujarat/porbandar/news/capture-of-raj-sagar-ship-carrying-old-vehicles-from-salala-port-to-yemen-captain-and-a-crew-member-killed-129966813.html"
                     },
                     "description": {
-                        "__cdata": " "
+                        "__cdata": " દરિયામાં ડૂબેલા વહાણનો કાટમાળ અને જૂના વાહનો દરિયાકિનારે તણાઈ આવ્યા,8 ખલાસીઓનો સ્થાનિક સુરક્ષા એજન્સી દ્વારા બચાવ કરવામાં આવ્યો "
                     },
-                    "pubDate": "Wed, 22 Jun 2022 11:18:19 +0530",
+                    "pubDate": "Wed, 22 Jun 2022 17:10:00 +0530",
                     "content": {
-                        "_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/960/2022/06/22/86f169fa-f9bb-4dda-91f1-6cfae3d72ed3_1655872571776.jpg",
+                        "_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/960/2022/06/22/_1655899775.gif",
+                        "_type": "image/gif",
+                        "_width": "1000",
+                        "_height": "1000",
+                        "__prefix": "media"
+                    }
+                },
+                {
+                    "title": {
+                        "__cdata": " દરોડાનો દોર યથાવત:રાજકોટમાં લીમડાચોક, વિદ્યાનગ૨ અને છોટુનગ૨ સહિત 12 વિસ્તારોમાં PGVCLની ચેકીંગ ડ્રાઈવ યથાવત "
+                    },
+                    "link": [
+                        "https://www.divyabhaskar.co.in/local/gujarat/rajkot/news/pgvcls-checking-drive-in-12-areas-in-rajkot-including-limdachok-vidyanag-and-chhotung-129966814.html",
+                        {
+                            "_href": "https://www.divyabhaskar.co.in/local/gujarat/rajkot/news/pgvcls-checking-drive-in-12-areas-in-rajkot-including-limdachok-vidyanag-and-chhotung-129966814.html",
+                            "__prefix": "atom"
+                        }
+                    ],
+                    "guid": {
+                        "_isPermaLink": "true",
+                        "__text": "https://www.divyabhaskar.co.in/local/gujarat/rajkot/news/pgvcls-checking-drive-in-12-areas-in-rajkot-including-limdachok-vidyanag-and-chhotung-129966814.html"
+                    },
+                    "description": {
+                        "__cdata": " સતત ત્રીજા દિવસે લાખો રૂપિયાની વીજચોરી પકડાવવાની આશંકા,આ પૂર્વે રૂ.34.33 લાખના બીલ ફટકા૨વામાં આવ્યા હતા "
+                    },
+                    "pubDate": "Wed, 22 Jun 2022 17:04:35 +0530",
+                    "content": {
+                        "_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/960/2022/06/22/vijchori-1_1655897646.jpeg",
                         "_type": "image/jpeg",
                         "_width": "1000",
                         "_height": "1000",
@@ -511,25 +916,52 @@
                 },
                 {
                     "title": {
-                        "__cdata": " લાખોનો સામાન બળીને ખાખ:પારડીના ખડકી ગામે મંડપ ડેકોરેશનના ગોડાઉનમાં વિકરાળ આગ, સંચાલકનું ઘર બળતા બળતા બચ્યું "
+                        "__cdata": " આશીર્વાદ આપતો હાથી:જગન્નાથજીની રથયાત્રામાં પહેલીવાર ત્રણ વર્ષનો બલરામ હાથી જોડાશે, નાનાંથી લઈ મોટાંને માથા પર સૂંઢ મૂકીને આપે છે આશિષ "
                     },
                     "link": [
-                        "https://www.divyabhaskar.co.in/local/gujarat/valsad/news/broke-out-in-decorator39s-godown-at-pardi-khadkin-in-valsad-district-a-team-of-4-firefighters-rushed-to-the-spot-to-control-the-129965975.html",
+                        "https://www.divyabhaskar.co.in/local/gujarat/ahmedabad/news/for-the-first-time-a-three-year-old-balram-elephant-will-join-jagannathjis-rathyatra-129966743.html",
                         {
-                            "_href": "https://www.divyabhaskar.co.in/local/gujarat/valsad/news/broke-out-in-decorator39s-godown-at-pardi-khadkin-in-valsad-district-a-team-of-4-firefighters-rushed-to-the-spot-to-control-the-129965975.html",
+                            "_href": "https://www.divyabhaskar.co.in/local/gujarat/ahmedabad/news/for-the-first-time-a-three-year-old-balram-elephant-will-join-jagannathjis-rathyatra-129966743.html",
                             "__prefix": "atom"
                         }
                     ],
                     "guid": {
                         "_isPermaLink": "true",
-                        "__text": "https://www.divyabhaskar.co.in/local/gujarat/valsad/news/broke-out-in-decorator39s-godown-at-pardi-khadkin-in-valsad-district-a-team-of-4-firefighters-rushed-to-the-spot-to-control-the-129965975.html"
+                        "__text": "https://www.divyabhaskar.co.in/local/gujarat/ahmedabad/news/for-the-first-time-a-three-year-old-balram-elephant-will-join-jagannathjis-rathyatra-129966743.html"
                     },
                     "description": {
-                        "__cdata": " આગ શોર્ટ સર્કિટને લીધે લાગી હોવાનું પ્રાથમિક અનુમાન "
+                        "__cdata": "  "
                     },
-                    "pubDate": "Wed, 22 Jun 2022 11:11:46 +0530",
+                    "pubDate": "Wed, 22 Jun 2022 17:00:00 +0530",
                     "content": {
-                        "_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/960/2022/06/22/d0f1a260-0c8d-4fce-a7d0-f08996a0c990_1655875154428.jpg",
+                        "_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/960/2022/06/22/11hhh_1655896099.gif",
+                        "_type": "image/gif",
+                        "_width": "1000",
+                        "_height": "1000",
+                        "__prefix": "media"
+                    }
+                },
+                {
+                    "title": {
+                        "__cdata": " ચોરી:રાજકોટમાં મુકબધીરનો સ્વાંગ રચી ગઠિયો સોની વેપારીની નજર ચુકવી 6 લાખના દાગીના લઇ ગયો "
+                    },
+                    "link": [
+                        "https://www.divyabhaskar.co.in/local/gujarat/rajkot/news/in-rajkot-a-gangster-who-pretended-to-be-deaf-and-dumb-took-the-jewelery-worth-rs-6-lakh-129966798.html",
+                        {
+                            "_href": "https://www.divyabhaskar.co.in/local/gujarat/rajkot/news/in-rajkot-a-gangster-who-pretended-to-be-deaf-and-dumb-took-the-jewelery-worth-rs-6-lakh-129966798.html",
+                            "__prefix": "atom"
+                        }
+                    ],
+                    "guid": {
+                        "_isPermaLink": "true",
+                        "__text": "https://www.divyabhaskar.co.in/local/gujarat/rajkot/news/in-rajkot-a-gangster-who-pretended-to-be-deaf-and-dumb-took-the-jewelery-worth-rs-6-lakh-129966798.html"
+                    },
+                    "description": {
+                        "__cdata": " શહેરના ભૂપેન્દ્ર રોડ પર બનેલી ઘટના, ગઠિયાએ કાગળ, નોટબુક નીચેથી દાગીના ભરેલુ બોક્સ સેરવી લીધું "
+                    },
+                    "pubDate": "Wed, 22 Jun 2022 16:59:48 +0530",
+                    "content": {
+                        "_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/960/2022/06/22/contentimage36753d50-980d-4734-aa93-e9492c28c472_1655897350.jpeg",
                         "_type": "image/jpeg",
                         "_width": "1000",
                         "_height": "1000",
@@ -538,25 +970,25 @@
                 },
                 {
                     "title": {
-                        "__cdata": " પ્રેમના નામે શોષણ:બોરસદનો શખ્સ સગીરાને પ્રેમજાળમાં ફસાવી ભગાડી ગયો, વારંવાર દુષ્કર્મ આચરતા સગીરા માંડ માંડ ઘરે પરત ફરી "
+                        "__cdata": " શમાની સોલોગામીને પણ ભૂલી જશો:વડોદરામાં દર મહિને 3થી 4 ઉચ્ચ અભ્યાસ કરેલા યુવક-યુવતીઓ કહે છે અમારે તો લગ્ન જ નથી કરવા "
                     },
                     "link": [
-                        "https://www.divyabhaskar.co.in/local/gujarat/anand/news/borsad-man-traps-sagira-in-love-and-escapes-sagira-barely-returns-home-after-repeated-misdeeds-129965950.html",
+                        "https://www.divyabhaskar.co.in/local/gujarat/vadodara/news/every-month-3-to-4-highly-educated-young-men-and-women-in-vadodara-say-we-dont-have-to-get-married-129966606.html",
                         {
-                            "_href": "https://www.divyabhaskar.co.in/local/gujarat/anand/news/borsad-man-traps-sagira-in-love-and-escapes-sagira-barely-returns-home-after-repeated-misdeeds-129965950.html",
+                            "_href": "https://www.divyabhaskar.co.in/local/gujarat/vadodara/news/every-month-3-to-4-highly-educated-young-men-and-women-in-vadodara-say-we-dont-have-to-get-married-129966606.html",
                             "__prefix": "atom"
                         }
                     ],
                     "guid": {
                         "_isPermaLink": "true",
-                        "__text": "https://www.divyabhaskar.co.in/local/gujarat/anand/news/borsad-man-traps-sagira-in-love-and-escapes-sagira-barely-returns-home-after-repeated-misdeeds-129965950.html"
+                        "__text": "https://www.divyabhaskar.co.in/local/gujarat/vadodara/news/every-month-3-to-4-highly-educated-young-men-and-women-in-vadodara-say-we-dont-have-to-get-married-129966606.html"
                     },
                     "description": {
-                        "__cdata": " બોરસદ શહેર પોલીસે ગુનો નોંધી આગળની તપાસ હાથ ધરી "
+                        "__cdata": " લગ્ન નહીં કરવાનો નિર્ણય કરવામાં યુવક અને યુવતોની સંખ્યા સમાન,માતા-પિતા સંતાનોના કાઉન્સેલિંગ માટે પહોંચે છે મનોચિકિત્સક પાસે,કોઇ રિસર્સ, સમાજસેવા તો કોઇ ધર્મક્ષેત્રે જવા માંગે છે,સંતાનોના બદલે આવેલા માતા-પિતાનું કાઉન્સેલિંગ કરવું પડે છે,યુવક અને યુવતીઓ વચ્ચે મિત્રતા એટલે કે નોન રોમેન્ટિક રિલેશનશીપ વધી "
                     },
-                    "pubDate": "Wed, 22 Jun 2022 10:54:20 +0530",
+                    "pubDate": "Wed, 22 Jun 2022 16:05:00 +0530",
                     "content": {
-                        "_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/960/2022/06/22/bfe6e8a6-b46d-4d9c-ba58-9121afc1dc38_1655872086978.jpg",
+                        "_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/960/2022/06/22/no-marri_1655896940.jpg",
                         "_type": "image/jpeg",
                         "_width": "1000",
                         "_height": "1000",
@@ -565,25 +997,25 @@
                 },
                 {
                     "title": {
-                        "__cdata": " કોરોના સુરત LIVE:બમણી ગતિએ ફેલાતું સંક્રમણ, સિટીમાં નવા 37 કેસ નોંધાયા, એક્ટિવ કેસ વધીને 229 "
+                        "__cdata": " લૂંટેરી દુલ્હન ઝડપાઈ:લગ્નના ગણતરીના કલાકોમાં રોકડ-દાગીના લઈ છૂ થઈ જતી, એક વર્ષ બાદ સુરતમાંથી ધરપકડ "
                     },
                     "link": [
-                        "https://www.divyabhaskar.co.in/local/gujarat/surat/news/transition-doubled-37-new-cases-reported-in-the-city-229-active-cases-129965940.html",
+                        "https://www.divyabhaskar.co.in/local/gujarat/surat/news/surat-a-year-later-lootery-dulhan-129966770.html",
                         {
-                            "_href": "https://www.divyabhaskar.co.in/local/gujarat/surat/news/transition-doubled-37-new-cases-reported-in-the-city-229-active-cases-129965940.html",
+                            "_href": "https://www.divyabhaskar.co.in/local/gujarat/surat/news/surat-a-year-later-lootery-dulhan-129966770.html",
                             "__prefix": "atom"
                         }
                     ],
                     "guid": {
                         "_isPermaLink": "true",
-                        "__text": "https://www.divyabhaskar.co.in/local/gujarat/surat/news/transition-doubled-37-new-cases-reported-in-the-city-229-active-cases-129965940.html"
+                        "__text": "https://www.divyabhaskar.co.in/local/gujarat/surat/news/surat-a-year-later-lootery-dulhan-129966770.html"
                     },
                     "description": {
-                        "__cdata": " શહેર જિલ્લામાં 205369 કેસ સામે આવી ચૂક્યા છે "
+                        "__cdata": " સુરત, રાપર, અમરેલી, મુંબઈના પાંચ યુવાનોને છેતર્યા છે,પોલીસે અગાઉ લૂંટેરીની ગેંગના બેની ધરપકડ કરી હતી "
                     },
-                    "pubDate": "Wed, 22 Jun 2022 10:48:30 +0530",
+                    "pubDate": "Wed, 22 Jun 2022 16:50:12 +0530",
                     "content": {
-                        "_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/960/2022/06/22/untitled_1655875086.jpg",
+                        "_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/960/2022/06/22/untitled_1655896066.jpg",
                         "_type": "image/jpeg",
                         "_width": "1000",
                         "_height": "1000",
@@ -592,25 +1024,25 @@
                 },
                 {
                     "title": {
-                        "__cdata": " રથયાત્રાની તૈયારી:અમદાવાદમાં ભગવાન જગન્નાથ બખ્તર પહેરીને નગરચર્ચાએ નીકળશે, રજવાડી વાઘા પણ તૈયાર કરાયા "
+                        "__cdata": " રથયાત્રા દરમિયાન સેવાયાત્રા:પાટણમાં શ્રી જગન્નાથજીની 140મી રથયાત્રાનાં માર્ગો પર 100 જેટલા સેવા કેમ્પો ઉભા કરાશે "
                     },
                     "link": [
-                        "https://www.divyabhaskar.co.in/local/gujarat/ahmedabad/news/in-ahmedabad-lord-jagannath-will-go-out-for-town-discussion-wearing-armor-rajwadi-wagah-has-also-been-prepared-129965909.html",
+                        "https://www.divyabhaskar.co.in/local/gujarat/patan/news/about-100-service-camps-will-be-set-up-on-the-140th-rathyatra-routes-of-shri-jagannathji-in-patan-129966765.html",
                         {
-                            "_href": "https://www.divyabhaskar.co.in/local/gujarat/ahmedabad/news/in-ahmedabad-lord-jagannath-will-go-out-for-town-discussion-wearing-armor-rajwadi-wagah-has-also-been-prepared-129965909.html",
+                            "_href": "https://www.divyabhaskar.co.in/local/gujarat/patan/news/about-100-service-camps-will-be-set-up-on-the-140th-rathyatra-routes-of-shri-jagannathji-in-patan-129966765.html",
                             "__prefix": "atom"
                         }
                     ],
                     "guid": {
                         "_isPermaLink": "true",
-                        "__text": "https://www.divyabhaskar.co.in/local/gujarat/ahmedabad/news/in-ahmedabad-lord-jagannath-will-go-out-for-town-discussion-wearing-armor-rajwadi-wagah-has-also-been-prepared-129965909.html"
+                        "__text": "https://www.divyabhaskar.co.in/local/gujarat/patan/news/about-100-service-camps-will-be-set-up-on-the-140th-rathyatra-routes-of-shri-jagannathji-in-patan-129966765.html"
                     },
                     "description": {
-                        "__cdata": " ભગવાનના મુકુટને ડાયમંડ હેન્ડવર્ક, રેશમ અને કસવ વર્કથી શણગારવામાં આવ્યો "
+                        "__cdata": " માર્ગો પર સેવાકીય, સામાજિક, શૈક્ષણિક તેમજ ધાર્મિક સંસ્થાઓ દ્વારા સેવા કેમ્પો ઉભા કરાશે "
                     },
-                    "pubDate": "Wed, 22 Jun 2022 10:31:59 +0530",
+                    "pubDate": "Wed, 22 Jun 2022 16:49:57 +0530",
                     "content": {
-                        "_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/960/2022/06/22/new-project-6_1655874030.jpg",
+                        "_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/960/2022/06/22/16de812c-0b7d-4cf3-8a4f-8a9e64e3bbcc_1655893875594.jpg",
                         "_type": "image/jpeg",
                         "_width": "1000",
                         "_height": "1000",
@@ -619,25 +1051,25 @@
                 },
                 {
                     "title": {
-                        "__cdata": " અરજદારની દાદાગીરી:ઉમરેઠના કસ્બા વિસ્તારમાં અરજદારે ભરકચેરીએ તલાટીને ફડાકો મારી દીધો "
+                        "__cdata": " મોબાઇલ ચોર સાળો-બનેવી:ગાંધીનગરમાં હોટલ અને ઢાબા પર સૂતા કર્મચારીઓનાં વહેલી પરોઢિયે મોબાઇલ ફોન ચોરી લેતાં સાળો બનેવી ઝડપાયા, 8 ગુનાનો ભેદ ખુલ્યો "
                     },
                     "link": [
-                        "https://www.divyabhaskar.co.in/local/gujarat/anand/news/in-the-town-area-of-umreth-the-petitioner-was-stabbed-to-death-by-bharakcheri-129965904.html",
+                        "https://www.divyabhaskar.co.in/local/gujarat/gandhinagar/news/in-gandhinagar-employees-sleeping-on-hotel-and-dhaba-were-caught-stealing-mobile-phones-in-the-early-hours-of-the-morning-8-crimes-were-uncovered-129966748.html",
                         {
-                            "_href": "https://www.divyabhaskar.co.in/local/gujarat/anand/news/in-the-town-area-of-umreth-the-petitioner-was-stabbed-to-death-by-bharakcheri-129965904.html",
+                            "_href": "https://www.divyabhaskar.co.in/local/gujarat/gandhinagar/news/in-gandhinagar-employees-sleeping-on-hotel-and-dhaba-were-caught-stealing-mobile-phones-in-the-early-hours-of-the-morning-8-crimes-were-uncovered-129966748.html",
                             "__prefix": "atom"
                         }
                     ],
                     "guid": {
                         "_isPermaLink": "true",
-                        "__text": "https://www.divyabhaskar.co.in/local/gujarat/anand/news/in-the-town-area-of-umreth-the-petitioner-was-stabbed-to-death-by-bharakcheri-129965904.html"
+                        "__text": "https://www.divyabhaskar.co.in/local/gujarat/gandhinagar/news/in-gandhinagar-employees-sleeping-on-hotel-and-dhaba-were-caught-stealing-mobile-phones-in-the-early-hours-of-the-morning-8-crimes-were-uncovered-129966748.html"
                     },
                     "description": {
-                        "__cdata": " ઉમરેઠ પોલીસે અરજદાર સામે ગુનો નોંધી ધરપકડ કરી "
+                        "__cdata": " રિલાયન્સ ચોકડી વિસ્તારમાં ચોરીના મોબાઇલ વેચવા માટે ફરી રહ્યા હતા "
                     },
-                    "pubDate": "Wed, 22 Jun 2022 10:28:20 +0530",
+                    "pubDate": "Wed, 22 Jun 2022 16:42:35 +0530",
                     "content": {
-                        "_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/960/2022/06/22/a6518168-15d8-4f0b-9df1-719e4ad2bd78_1655871716075.jpg",
+                        "_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/960/2022/06/22/9fd1f577-e838-4068-9f1d-0ade66b84052_1655894621187.jpg",
                         "_type": "image/jpeg",
                         "_width": "1000",
                         "_height": "1000",
@@ -646,25 +1078,25 @@
                 },
                 {
                     "title": {
-                        "__cdata": " આરોપીઓ રિમાન્ડ પર:મહેસાણામાં આધેડની હત્યા કરનારા બંને આરોપીના બે દિવસના રિમાન્ડ મંજૂર, બે દિવસ અગાઉ તલવાર મારી હત્યા કરી હતી "
+                        "__cdata": " પ્રેમ લગ્ન કરવા ભારે પડ્યા:'તું મને કેમ જગાડતી નથી?' તેમ કહી ભાવનગરમાં પતિ પત્નીને વારંવાર મારકુટ કરતો, આખરે કંટાળીને મહિલાને પિયર આવવું પડ્યું "
                     },
                     "link": [
-                        "https://www.divyabhaskar.co.in/local/gujarat/mehsana/news/two-day-remand-granted-to-two-accused-in-mehsana-murder-of-middle-aged-man-129965871.html",
+                        "https://www.divyabhaskar.co.in/local/gujarat/bhavnagar/news/why-dont-you-wake-me-up-husband-used-to-beat-his-wife-repeatedly-in-bhavnagar-finally-the-woman-got-bored-and-had-to-come-to-the-pier-129966729.html",
                         {
-                            "_href": "https://www.divyabhaskar.co.in/local/gujarat/mehsana/news/two-day-remand-granted-to-two-accused-in-mehsana-murder-of-middle-aged-man-129965871.html",
+                            "_href": "https://www.divyabhaskar.co.in/local/gujarat/bhavnagar/news/why-dont-you-wake-me-up-husband-used-to-beat-his-wife-repeatedly-in-bhavnagar-finally-the-woman-got-bored-and-had-to-come-to-the-pier-129966729.html",
                             "__prefix": "atom"
                         }
                     ],
                     "guid": {
                         "_isPermaLink": "true",
-                        "__text": "https://www.divyabhaskar.co.in/local/gujarat/mehsana/news/two-day-remand-granted-to-two-accused-in-mehsana-murder-of-middle-aged-man-129965871.html"
+                        "__text": "https://www.divyabhaskar.co.in/local/gujarat/bhavnagar/news/why-dont-you-wake-me-up-husband-used-to-beat-his-wife-repeatedly-in-bhavnagar-finally-the-woman-got-bored-and-had-to-come-to-the-pier-129966729.html"
                     },
                     "description": {
-                        "__cdata": " "
+                        "__cdata": " લગ્ન બાદ પતિ શરાબની લતે ચડી ગયો, નાની નાની વાતમાં ત્રાસ આપતો "
                     },
-                    "pubDate": "Wed, 22 Jun 2022 10:09:28 +0530",
+                    "pubDate": "Wed, 22 Jun 2022 16:38:38 +0530",
                     "content": {
-                        "_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/960/2022/06/22/1d2a86ce-27f9-49e1-b990-726d08203c9a_1655871038629.jpg",
+                        "_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/960/2022/06/22/d73ca9e1-4962-414a-b77b-6f16b99ba430_1655893675124.jpg",
                         "_type": "image/jpeg",
                         "_width": "1000",
                         "_height": "1000",
@@ -673,25 +1105,52 @@
                 },
                 {
                     "title": {
-                        "__cdata": " રથયાત્રાનો જૂનો ઇતિહાસ:ભરૂચના ફુરજા બંદરની 250 વર્ષ જૂની ઐતિહાસિક રથયાત્રા સાથે જિલ્લામાં 5 સ્થળે રથયાત્રા નીકળશે "
+                        "__cdata": " મહારાષ્ટ્રથી ગુવાહાટી વાયા સુરત:શિવસેનાના બળવાખોર MLAના લક્ઝુરિયસ 'જલસા'થી લઈને પ્લેન સવારી સુધીની પળેપળનો ઘટનાક્રમ "
                     },
                     "link": [
-                        "https://www.divyabhaskar.co.in/local/gujarat/bharuch/news/with-the-250-year-old-historical-rathyatra-of-furja-port-of-bharuch-rathyatra-will-start-at-5-places-in-the-district-129965867.html",
+                        "https://www.divyabhaskar.co.in/local/gujarat/surat/news/luxurious-jalsa-of-the-shiv-sena-rebel-mla-to-the-plane-ride-from-129966494.html",
                         {
-                            "_href": "https://www.divyabhaskar.co.in/local/gujarat/bharuch/news/with-the-250-year-old-historical-rathyatra-of-furja-port-of-bharuch-rathyatra-will-start-at-5-places-in-the-district-129965867.html",
+                            "_href": "https://www.divyabhaskar.co.in/local/gujarat/surat/news/luxurious-jalsa-of-the-shiv-sena-rebel-mla-to-the-plane-ride-from-129966494.html",
                             "__prefix": "atom"
                         }
                     ],
                     "guid": {
                         "_isPermaLink": "true",
-                        "__text": "https://www.divyabhaskar.co.in/local/gujarat/bharuch/news/with-the-250-year-old-historical-rathyatra-of-furja-port-of-bharuch-rathyatra-will-start-at-5-places-in-the-district-129965867.html"
+                        "__text": "https://www.divyabhaskar.co.in/local/gujarat/surat/news/luxurious-jalsa-of-the-shiv-sena-rebel-mla-to-the-plane-ride-from-129966494.html"
                     },
                     "description": {
-                        "__cdata": " ફુરજા બંદરથી નીકળતી રથયાત્રાનો અમદાવાદ કરતા પણ જૂનો ઇતિહાસ,ભરૂચમાં 3, અંકલેશ્વર અને આમોદમાં 1-1 રથયાત્રાને નગરચર્યાની આ વખતે મંજૂરી "
+                        "__cdata": "  "
                     },
-                    "pubDate": "Wed, 22 Jun 2022 10:05:30 +0530",
+                    "pubDate": "Wed, 22 Jun 2022 16:00:00 +0530",
                     "content": {
-                        "_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/960/2022/06/22/1442adef-1be0-4258-83b6-9204606514aa_1655869639610.jpg",
+                        "_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/960/2022/06/22/11mla-drama_1655895250.gif",
+                        "_type": "image/gif",
+                        "_width": "1000",
+                        "_height": "1000",
+                        "__prefix": "media"
+                    }
+                },
+                {
+                    "title": {
+                        "__cdata": " પતિનો ત્રાસ:રાજકોટમાં UPSCની તૈયારી કરતી પત્ની પર શંકા કરી વારંવાર વીડિયો કોલ કરતો, નાની-નાની વાતમાં ઝગડી પડતો "
+                    },
+                    "link": [
+                        "https://www.divyabhaskar.co.in/local/gujarat/rajkot/news/suspecting-wife-preparing-for-upsc-in-rajkot-making-frequent-video-calls-quarreling-over-small-matters-129966675.html",
+                        {
+                            "_href": "https://www.divyabhaskar.co.in/local/gujarat/rajkot/news/suspecting-wife-preparing-for-upsc-in-rajkot-making-frequent-video-calls-quarreling-over-small-matters-129966675.html",
+                            "__prefix": "atom"
+                        }
+                    ],
+                    "guid": {
+                        "_isPermaLink": "true",
+                        "__text": "https://www.divyabhaskar.co.in/local/gujarat/rajkot/news/suspecting-wife-preparing-for-upsc-in-rajkot-making-frequent-video-calls-quarreling-over-small-matters-129966675.html"
+                    },
+                    "description": {
+                        "__cdata": " મહિલા પોલીસમાં ફરિયાદ દાખલ "
+                    },
+                    "pubDate": "Wed, 22 Jun 2022 16:20:25 +0530",
+                    "content": {
+                        "_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/960/2022/06/22/sasriya-no-tras-4_1655894995.jpg",
                         "_type": "image/jpeg",
                         "_width": "1000",
                         "_height": "1000",
@@ -700,25 +1159,25 @@
                 },
                 {
                     "title": {
-                        "__cdata": " 'ઝઘડો કરવો હોય તો સ્ટેશન પર આવીજા':પાટણ રેલવે સ્ટેશન પર મોડી સાંજે થયેલા ધિંગાણામાં છરીઓ ઉડી, ચોતરફ નાસ ભાગ મચતા મુસાફરો ગભરાઇ ગયા "
+                        "__cdata": " ભરતી રદ થતાં ઉમેદવારોમાં રોષ:ભાવનગરમાં આર્મીની શારીરિક પરિક્ષા આપેલા ઉમેદવારોએ રેલી કાઢી, શર્ટ કાઢી કલેક્ટર કચેરીમાં પુશ અપ્સ કરી વિરોધ નોંધાવ્યો "
                     },
                     "link": [
-                        "https://www.divyabhaskar.co.in/local/gujarat/patan/news/knives-flew-in-the-late-evening-at-patan-railway-station-passengers-panicked-129965854.html",
+                        "https://www.divyabhaskar.co.in/local/gujarat/bhavnagar/news/candidates-who-had-appeared-for-the-army-physical-examination-in-bhavnagar-rallied-took-off-their-shirts-and-protested-by-doing-push-ups-at-the-collectorate-129966670.html",
                         {
-                            "_href": "https://www.divyabhaskar.co.in/local/gujarat/patan/news/knives-flew-in-the-late-evening-at-patan-railway-station-passengers-panicked-129965854.html",
+                            "_href": "https://www.divyabhaskar.co.in/local/gujarat/bhavnagar/news/candidates-who-had-appeared-for-the-army-physical-examination-in-bhavnagar-rallied-took-off-their-shirts-and-protested-by-doing-push-ups-at-the-collectorate-129966670.html",
                             "__prefix": "atom"
                         }
                     ],
                     "guid": {
                         "_isPermaLink": "true",
-                        "__text": "https://www.divyabhaskar.co.in/local/gujarat/patan/news/knives-flew-in-the-late-evening-at-patan-railway-station-passengers-panicked-129965854.html"
+                        "__text": "https://www.divyabhaskar.co.in/local/gujarat/bhavnagar/news/candidates-who-had-appeared-for-the-army-physical-examination-in-bhavnagar-rallied-took-off-their-shirts-and-protested-by-doing-push-ups-at-the-collectorate-129966670.html"
                     },
                     "description": {
-                        "__cdata": " સામસામી 10 સામે ફરીયાદ, ઇજાગ્રસ્તને સારવાર માટે ખસેડાયા "
+                        "__cdata": " ભાવનગરમાં આર્મીની ભરતી રદ થતા શારીરિક પરીક્ષા આપેલા ઉમેદવારોએ રેલી કાઢી,ફિઝિકલ-મેડિકલ ભરતી પાસ કરેલા યુવાનોની આગેવાનીમાં કાળાનાળા ચોકથી કલેક્ટર કચેરી સુધી રેલી,કોરોનાના બે વર્ષ પહેલા રદ થયેલી સેનાની મૂળ બાકી રહેલી લેખિત પરીક્ષા લાઇને ભરતી કરવા વિદ્યાર્થીઓની માંગ "
                     },
-                    "pubDate": "Wed, 22 Jun 2022 09:59:03 +0530",
+                    "pubDate": "Wed, 22 Jun 2022 16:17:40 +0530",
                     "content": {
-                        "_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/960/2022/06/22/4b369775-8172-4dd6-9e20-098a2831de87_1655869432373.jpg",
+                        "_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/960/2022/06/22/d6c5b3d7-e62b-4218-b197-42eed9b3d138_1655887623415.jpg",
                         "_type": "image/jpeg",
                         "_width": "1000",
                         "_height": "1000",
@@ -727,25 +1186,25 @@
                 },
                 {
                     "title": {
-                        "__cdata": " તપાસના આદેશ:ગુડાનાં EWS આવાસોની ટ્રાયલ યાદી ડ્રોના આગલાં દિવસથી લીક થઈ, શહેરી વિકાસ સત્તા મંડળના ચેરમેને તપાસના આદેશ આપ્યા "
+                        "__cdata": " હાઈ વોલ્ટેજ ડ્રામા:નેત્રંગમાં મહિલા બૂટલેગરે ગામ ગજવ્યું, પુત્રીએ ફીનાઈલ ગટગટાવ્યું, સ્ટેટ મોનીટરીંગ સેલની રેડમાં થઈ જોવા જેવી "
                     },
                     "link": [
-                        "https://www.divyabhaskar.co.in/local/gujarat/gandhinagar/news/gudas-ews-accommodation-trial-list-leaked-the-day-before-the-draw-with-the-chairman-of-the-urban-development-authority-ordering-an-inquiry-129965846.html",
+                        "https://www.divyabhaskar.co.in/local/gujarat/bharuch/news/in-netrang-a-woman-bootlegger-roams-the-village-her-daughter-shouts-phenyl-as-seen-in-the-raid-of-the-state-monitoring-cell-129966664.html",
                         {
-                            "_href": "https://www.divyabhaskar.co.in/local/gujarat/gandhinagar/news/gudas-ews-accommodation-trial-list-leaked-the-day-before-the-draw-with-the-chairman-of-the-urban-development-authority-ordering-an-inquiry-129965846.html",
+                            "_href": "https://www.divyabhaskar.co.in/local/gujarat/bharuch/news/in-netrang-a-woman-bootlegger-roams-the-village-her-daughter-shouts-phenyl-as-seen-in-the-raid-of-the-state-monitoring-cell-129966664.html",
                             "__prefix": "atom"
                         }
                     ],
                     "guid": {
                         "_isPermaLink": "true",
-                        "__text": "https://www.divyabhaskar.co.in/local/gujarat/gandhinagar/news/gudas-ews-accommodation-trial-list-leaked-the-day-before-the-draw-with-the-chairman-of-the-urban-development-authority-ordering-an-inquiry-129965846.html"
+                        "__text": "https://www.divyabhaskar.co.in/local/gujarat/bharuch/news/in-netrang-a-woman-bootlegger-roams-the-village-her-daughter-shouts-phenyl-as-seen-in-the-raid-of-the-state-monitoring-cell-129966664.html"
                     },
                     "description": {
-                        "__cdata": " ટ્રાયલ યાદી ડ્રોનાં આગલા દિવસથી બજારમાં ફરતી થતાં કોઇ કર્મચારીની સંડોવણી હોવાની શંકા "
+                        "__cdata": " ઘરમાંથી 74 નંગ દારૂની બોટલ, રોકડા અને મોબાઈલ મળી રૂપિયા 20 હજારનો મુદ્દામાલ જપ્ત,મહિલા તેમજ યુવકની ધરપકડ, એક વોન્ટેડ જાહેર "
                     },
-                    "pubDate": "Wed, 22 Jun 2022 09:52:17 +0530",
+                    "pubDate": "Wed, 22 Jun 2022 16:15:45 +0530",
                     "content": {
-                        "_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/960/2022/06/22/8a84d7d3-4783-4c86-82b2-fea86dbd404e_1655869228296.jpg",
+                        "_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/960/2022/06/22/50152d1d-61bf-4e50-8a8d-70927b04a032_1655891442210.jpg",
                         "_type": "image/jpeg",
                         "_width": "1000",
                         "_height": "1000",
@@ -754,25 +1213,25 @@
                 },
                 {
                     "title": {
-                        "__cdata": " બેરોજગારીથી કંટાળી યુવકે મોતને વહાલું કર્યું:વલસાડના પરિયાના યુવકે પાર નદીમાં છલાંગ લગાવી, ત્રણ બહેનો વચ્ચે એકનો એક ભાઇ હતો "
+                        "__cdata": " આયુર્વેદિક સિરપના નામે નશાનો કારોબાર:જૂનાગઢમાં હર્બલના નામે વેચાતી હતી નશાકારક સિરપ, પોલીસના દરોડા દરમિયાન મળી આવી 340 બોટલ "
                     },
                     "link": [
-                        "https://www.divyabhaskar.co.in/local/gujarat/valsad/news/the-pariya-youth-from-valsad-jumped-into-the-par-river-one-of-the-three-sisters-was-a-brother-129965755.html",
+                        "https://www.divyabhaskar.co.in/local/gujarat/junagadh/news/in-junagadh-340-bottles-of-narcotic-syrup-were-sold-during-a-police-raid-129966619.html",
                         {
-                            "_href": "https://www.divyabhaskar.co.in/local/gujarat/valsad/news/the-pariya-youth-from-valsad-jumped-into-the-par-river-one-of-the-three-sisters-was-a-brother-129965755.html",
+                            "_href": "https://www.divyabhaskar.co.in/local/gujarat/junagadh/news/in-junagadh-340-bottles-of-narcotic-syrup-were-sold-during-a-police-raid-129966619.html",
                             "__prefix": "atom"
                         }
                     ],
                     "guid": {
                         "_isPermaLink": "true",
-                        "__text": "https://www.divyabhaskar.co.in/local/gujarat/valsad/news/the-pariya-youth-from-valsad-jumped-into-the-par-river-one-of-the-three-sisters-was-a-brother-129965755.html"
+                        "__text": "https://www.divyabhaskar.co.in/local/gujarat/junagadh/news/in-junagadh-340-bottles-of-narcotic-syrup-were-sold-during-a-police-raid-129966619.html"
                     },
                     "description": {
-                        "__cdata": " યુવક આઠ ધોરણ જ પાસ હોવાથી નોકરી મળતી ન હતી "
+                        "__cdata": " પોલીસે 50 હજારના મુદામાલ સાથે નશાનો કારોબાર ચલાવનાર દુકાન માલિક અને મેનેજરને ઝડપી લઈ ધોરણસરની કાર્યવાહી હાથ ધરી,આયુર્વેદિક હર્બલની ઓથ હેઠળ નશા કરાવવાનું બાર ચાલી રહ્યાનું દરોડામાં સામે આવતા પોલીસ ચોકી ઉઠી "
                     },
-                    "pubDate": "Wed, 22 Jun 2022 08:39:38 +0530",
+                    "pubDate": "Wed, 22 Jun 2022 15:59:57 +0530",
                     "content": {
-                        "_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/960/2022/06/22/5783e360-9560-417e-a63e-c413799f5977_1655833242173.jpg",
+                        "_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/960/2022/06/22/bce86866-65ba-4f49-bf51-14f784e2fd53_1655891488415.jpg",
                         "_type": "image/jpeg",
                         "_width": "1000",
                         "_height": "1000",
@@ -781,25 +1240,25 @@
                 },
                 {
                     "title": {
-                        "__cdata": " ભાસ્કર બ્રેકિંગ:આ છે અમદાવાદનો માસ્ટર પ્લાન - SG હાઈવે બનશે સેન્ટર અોફ ધ સિટી રોડ, કોબા હાઈવે પર કોમર્શિયલ ઝોન "
+                        "__cdata": " ઈમાનદારીને સલામ:અકસ્માતમાં બેભાન થઈ ગયેલા દર્દી પાસે રોકડા 5.25 લાખ હતા, એમ્બ્યુલન્સ કર્મચારીઓએ એક-એક નોટ સગાને પરત કરી "
                     },
                     "link": [
-                        "https://www.divyabhaskar.co.in/local/gujarat/ahmedabad/news/this-is-ahmedabads-master-plan-sg-highway-will-be-the-center-of-the-city-road-commercial-zone-on-koba-highway-129965471.html",
+                        "https://www.divyabhaskar.co.in/local/gujarat/ahmedabad/news/patient-lost-consciousness-in-the-accident-had-rs-525-lakh-in-cash-ambulance-personnel-returned-to-relative-129966582.html",
                         {
-                            "_href": "https://www.divyabhaskar.co.in/local/gujarat/ahmedabad/news/this-is-ahmedabads-master-plan-sg-highway-will-be-the-center-of-the-city-road-commercial-zone-on-koba-highway-129965471.html",
+                            "_href": "https://www.divyabhaskar.co.in/local/gujarat/ahmedabad/news/patient-lost-consciousness-in-the-accident-had-rs-525-lakh-in-cash-ambulance-personnel-returned-to-relative-129966582.html",
                             "__prefix": "atom"
                         }
                     ],
                     "guid": {
                         "_isPermaLink": "true",
-                        "__text": "https://www.divyabhaskar.co.in/local/gujarat/ahmedabad/news/this-is-ahmedabads-master-plan-sg-highway-will-be-the-center-of-the-city-road-commercial-zone-on-koba-highway-129965471.html"
+                        "__text": "https://www.divyabhaskar.co.in/local/gujarat/ahmedabad/news/patient-lost-consciousness-in-the-accident-had-rs-525-lakh-in-cash-ambulance-personnel-returned-to-relative-129966582.html"
                     },
                     "description": {
-                        "__cdata": " 2041માં 1.52 કરોડની વસતીને ધ્યાનમાં રાખીને સેપ્ટે બનાવ્યો ડેવલપમેન્ટ પ્લાન,70 ટકા વિસ્તાર મેટ્રો, બીઆરટીએસ જેવા પબ્લિક ટ્રાન્સપોર્ટથી કનેક્ટ થશે, રહેવા માટે 210ના બદલે 280 ચો.ફૂટ જગ્યા મળશે,1855 ચો.કિમીમાં ફેલાયેલું શહેર 2085 ચો.કિમીમાં પથરાઈ ગયું હશે,1.52 કરોડની વસતીમાં પ્રત્યેક અમદાવાદીને રહેવા માટે 280 ચોરસ ફૂટ જગ્યા મળશે "
+                        "__cdata": " વિરમગામની મહાત્મા ગાંધી સરકારી હોસ્પિટલના કર્મચારીઓની ઈમાનદારીના થયા વખાણ,વિઠ્ઠલગઢ પાસે અકસ્માતમાં માથામાં ઈજા થતા વ્યક્તિ બેભાન થઈ ગઈ હતી "
                     },
-                    "pubDate": "Wed, 22 Jun 2022 08:30:30 +0530",
+                    "pubDate": "Wed, 22 Jun 2022 15:42:06 +0530",
                     "content": {
-                        "_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/960/2022/06/22/orig_37_1655856483.jpg",
+                        "_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/960/2022/06/22/hospital-0_1655892565.jpg",
                         "_type": "image/jpeg",
                         "_width": "1000",
                         "_height": "1000",
@@ -808,25 +1267,25 @@
                 },
                 {
                     "title": {
-                        "__cdata": " શિક્ષણ ક્ષેત્રે અમદાવાદની પ્રગતિ:સૌથી વધુ 22 સરકારી ડિજિટલ સ્કૂલો, આ વર્ષે વધુ 44 બનશે; તમામ સ્કૂલો ડિજિટલ બનાવવા નગર પ્રાથમિક શિક્ષણ સમિતિનું આયોજન "
+                        "__cdata": " દયાદરા ગામે અનોખી પહેલ:ભરુચની એક કંપનીએ ઉઠાવી ગામની સ્વચ્છતાની જવાબદારી; ઈલેક્ટ્રિકલ ગાડી સહિતની સાફ-સફાઈની વસ્તુઓની સુવિધા પૂરી પાડી "
                     },
                     "link": [
-                        "https://www.divyabhaskar.co.in/local/gujarat/ahmedabad/news/there-will-be-a-maximum-of-22-government-digital-schools-44-more-this-year-planning-of-town-primary-education-committee-to-make-all-schools-digital-129964252.html",
+                        "https://www.divyabhaskar.co.in/local/gujarat/bharuch/news/for-sanitation-all-the-waste-management-equipment-was-given-to-the-villagers-by-the-company-129966578.html",
                         {
-                            "_href": "https://www.divyabhaskar.co.in/local/gujarat/ahmedabad/news/there-will-be-a-maximum-of-22-government-digital-schools-44-more-this-year-planning-of-town-primary-education-committee-to-make-all-schools-digital-129964252.html",
+                            "_href": "https://www.divyabhaskar.co.in/local/gujarat/bharuch/news/for-sanitation-all-the-waste-management-equipment-was-given-to-the-villagers-by-the-company-129966578.html",
                             "__prefix": "atom"
                         }
                     ],
                     "guid": {
                         "_isPermaLink": "true",
-                        "__text": "https://www.divyabhaskar.co.in/local/gujarat/ahmedabad/news/there-will-be-a-maximum-of-22-government-digital-schools-44-more-this-year-planning-of-town-primary-education-committee-to-make-all-schools-digital-129964252.html"
+                        "__text": "https://www.divyabhaskar.co.in/local/gujarat/bharuch/news/for-sanitation-all-the-waste-management-equipment-was-given-to-the-villagers-by-the-company-129966578.html"
                     },
                     "description": {
-                        "__cdata": " સરકારી યોજનાઓ અને અભ્યાસને કારણે છેલ્લાં આઠ વર્ષમાં 40 હજારથી વધુ વિદ્યાર્થીઓ ખાનગી સ્કૂલમાંથી મ્યુનિ.ની સ્કૂલમાં આવ્યા,પૂર્વ-પશ્ચિમના કુલ 26 વિસ્તારોમાં સ્માર્ટ સ્કૂલો બનશે,તમામ સ્કૂલો ડિજિટલ બનાવવા નગર પ્રાથમિક શિક્ષણ સમિતિનું આયોજન "
+                        "__cdata": " ગ્રામ પંચાયતે પણ સહકારની ખાતરી આપી,ગામ સ્વચ્છ રહે તે માટે વિવિધ યોજનાઓ પણ શરુ કરવામાં આવી "
                     },
-                    "pubDate": "Wed, 22 Jun 2022 08:30:07 +0530",
+                    "pubDate": "Wed, 22 Jun 2022 15:40:21 +0530",
                     "content": {
-                        "_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/960/2022/06/22/orig_14_1655838860.jpg",
+                        "_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/960/2022/06/22/f5d38bc4-9602-43fc-bf3d-6977b404e32a_1655886665651.jpg",
                         "_type": "image/jpeg",
                         "_width": "1000",
                         "_height": "1000",
@@ -835,25 +1294,25 @@
                 },
                 {
                     "title": {
-                        "__cdata": " ગુજરાતમાં સેકન્ડ હેન્ડ કારનું ધૂમ વેચાણ:બજેટમાં ફિટ હોવાથી 10માંથી પાંચ પરિવારની પસંદ; મહિને 1500થી વધુ કારનું વેચાણ "
+                        "__cdata": " પૂર્વ મેયરના વધુ એક બિલ્ડિંગનો વિવાદ:ગાંધીનગરના પૂર્વ મેયર અને બિલ્ડર પતિની વધુ એક વિવાદિત ઈમારતની તપાસ શરૂ, કલેક્ટર અને મનપાની ચાર ટીમો સ્થળ પર પહોંચી "
                     },
                     "link": [
-                        "https://www.divyabhaskar.co.in/local/gujarat/ahmedabad/news/five-family-choices-out-of-10-to-fit-the-budget-sales-of-over-1500-cars-per-month-129964262.html",
+                        "https://www.divyabhaskar.co.in/local/gujarat/gandhinagar/news/former-mayor-of-gandhinagar-and-builder-husbands-investigation-into-another-disputed-building-started-four-teams-of-collector-and-manpani-reached-the-spot-129966569.html",
                         {
-                            "_href": "https://www.divyabhaskar.co.in/local/gujarat/ahmedabad/news/five-family-choices-out-of-10-to-fit-the-budget-sales-of-over-1500-cars-per-month-129964262.html",
+                            "_href": "https://www.divyabhaskar.co.in/local/gujarat/gandhinagar/news/former-mayor-of-gandhinagar-and-builder-husbands-investigation-into-another-disputed-building-started-four-teams-of-collector-and-manpani-reached-the-spot-129966569.html",
                             "__prefix": "atom"
                         }
                     ],
                     "guid": {
                         "_isPermaLink": "true",
-                        "__text": "https://www.divyabhaskar.co.in/local/gujarat/ahmedabad/news/five-family-choices-out-of-10-to-fit-the-budget-sales-of-over-1500-cars-per-month-129964262.html"
+                        "__text": "https://www.divyabhaskar.co.in/local/gujarat/gandhinagar/news/former-mayor-of-gandhinagar-and-builder-husbands-investigation-into-another-disputed-building-started-four-teams-of-collector-and-manpani-reached-the-spot-129966569.html"
                     },
                     "description": {
-                        "__cdata": " સેકન્ડ હેન્ડ કાર માર્કેટમાં અમદાવાદ હબ બની ગયું "
+                        "__cdata": " સેક્ટર-22ના અર્હમ ફ્લેટમાં સરકારી પ્લોટને બિલ્ડિંગના પાર્કિંગમાં ખપાવીને કરોડોનો ભ્રષ્ટાચાર થયાનો આક્ષેપ,મનપાની ટાઉન પ્લાન, એન્જિનિયરીંગ, ફાયર અને જમીન ફાળવણી શાખાએ સંયુક્ત તપાસ આદરી "
                     },
-                    "pubDate": "Wed, 22 Jun 2022 08:30:00 +0530",
+                    "pubDate": "Wed, 22 Jun 2022 15:37:40 +0530",
                     "content": {
-                        "_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/960/2022/06/22/orig_15_1655839026.jpg",
+                        "_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/960/2022/06/22/8f7d00ac-ad5b-415a-9819-a2f1b626719a_1655891291183.jpg",
                         "_type": "image/jpeg",
                         "_width": "1000",
                         "_height": "1000",
@@ -862,25 +1321,25 @@
                 },
                 {
                     "title": {
-                        "__cdata": " ભાસ્કર એક્સક્લુઝિવ:કચ્છની ઉત્તરી રણ સીમાને જોડતા ઇન્ડિયા બ્રિજની સમાંતર નવો માર્ગ તૈયાર "
+                        "__cdata": " મહિલાને હેરાન કરતા મામલો બિચક્યો:આણંદના ધર્મજમાં પત્નીને હેરાન કરનાર શખ્સ પર પતિનો મગજ છટક્યો, ગુસ્સામાં આવી ચપ્પુ લઈને ફરી વળ્યો "
                     },
                     "link": [
-                        "https://www.divyabhaskar.co.in/local/gujarat/kutch/news/new-road-parallel-to-india-bridge-connecting-the-northern-desert-border-of-kutch-129964938.html",
+                        "https://www.divyabhaskar.co.in/local/gujarat/anand/news/husbands-brain-escapes-on-man-who-annoys-wife-in-anands-dharmaj-129966561.html",
                         {
-                            "_href": "https://www.divyabhaskar.co.in/local/gujarat/kutch/news/new-road-parallel-to-india-bridge-connecting-the-northern-desert-border-of-kutch-129964938.html",
+                            "_href": "https://www.divyabhaskar.co.in/local/gujarat/anand/news/husbands-brain-escapes-on-man-who-annoys-wife-in-anands-dharmaj-129966561.html",
                             "__prefix": "atom"
                         }
                     ],
                     "guid": {
                         "_isPermaLink": "true",
-                        "__text": "https://www.divyabhaskar.co.in/local/gujarat/kutch/news/new-road-parallel-to-india-bridge-connecting-the-northern-desert-border-of-kutch-129964938.html"
+                        "__text": "https://www.divyabhaskar.co.in/local/gujarat/anand/news/husbands-brain-escapes-on-man-who-annoys-wife-in-anands-dharmaj-129966561.html"
                     },
                     "description": {
-                        "__cdata": " વિશ્વના સૌથી મોટા હાઇબ્રીડ એનર્જી પાર્ક માટે રણને ચીરતો માર્ગ "
+                        "__cdata": " યુવકનો પરિવરા વચ્ચે પડતા બન્ને પરિવારો સામસામે આવી ગયાં "
                     },
-                    "pubDate": "Wed, 22 Jun 2022 08:30:00 +0530",
+                    "pubDate": "Wed, 22 Jun 2022 15:33:56 +0530",
                     "content": {
-                        "_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/960/2022/06/22/orig_52_1655848157.jpg",
+                        "_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/960/2022/06/22/a1b18042-bf8c-4996-a0f2-20c6c07ea89c_1655887598106.jpg",
                         "_type": "image/jpeg",
                         "_width": "1000",
                         "_height": "1000",
@@ -889,25 +1348,25 @@
                 },
                 {
                     "title": {
-                        "__cdata": " અમદાવાદમાં મેટ્રો:ઓગસ્ટમાં પહેલા ફેઝના 40માંથી 38 કિલોમીટરના રૂટ પર મેટ્રો ટ્રેન દોડશે, 32માંથી 29 સ્ટેશન શરૂ થશે "
+                        "__cdata": " પતિ, પત્ની, ઓર વો:અમદાવાદમાં પરિવાર નવા ઘરમાં રહેવા ગયો, પતિને પાડોશણ સાથે પ્રેમ થયો, પત્ની અને દીકરાને મારીને ઘરમાંથી કાઢી મુક્યાં "
                     },
                     "link": [
-                        "https://www.divyabhaskar.co.in/local/gujarat/ahmedabad/news/in-august-metro-trains-will-run-on-38-out-of-40-km-route-of-the-first-phase-29-out-of-32-stations-will-start-129964177.html",
+                        "https://www.divyabhaskar.co.in/local/gujarat/ahmedabad/news/family-moved-to-new-house-in-ahmedabad-husband-fell-in-love-with-neighbor-killed-wife-and-son-and-evicted-129966517.html",
                         {
-                            "_href": "https://www.divyabhaskar.co.in/local/gujarat/ahmedabad/news/in-august-metro-trains-will-run-on-38-out-of-40-km-route-of-the-first-phase-29-out-of-32-stations-will-start-129964177.html",
+                            "_href": "https://www.divyabhaskar.co.in/local/gujarat/ahmedabad/news/family-moved-to-new-house-in-ahmedabad-husband-fell-in-love-with-neighbor-killed-wife-and-son-and-evicted-129966517.html",
                             "__prefix": "atom"
                         }
                     ],
                     "guid": {
                         "_isPermaLink": "true",
-                        "__text": "https://www.divyabhaskar.co.in/local/gujarat/ahmedabad/news/in-august-metro-trains-will-run-on-38-out-of-40-km-route-of-the-first-phase-29-out-of-32-stations-will-start-129964177.html"
+                        "__text": "https://www.divyabhaskar.co.in/local/gujarat/ahmedabad/news/family-moved-to-new-house-in-ahmedabad-husband-fell-in-love-with-neighbor-killed-wife-and-son-and-evicted-129966517.html"
                     },
                     "description": {
-                        "__cdata": " કામ મોડું શરૂ થતાં કાંકરિયા ઈસ્ટ, સાબરમતી, થલતેજ ગામ સ્ટેશનો પછીથી શરૂ કરાશે,બીજા ફેઝમાં 5523 કરોડના ખર્ચે મોટેરાથી ગાંધીનગરમાં મહાત્મા મંદિર સુધી રૂટને લંબાવાશે,બંને રૂટનું ઈન્ટરચેન્જ સ્ટેશન જૂની હાઈકોર્ટ(ઈન્કમટેક્સ) પાસે તૈયાર કરાયું છે, જ્યાંથી ટ્રેન બદલી શકાશે "
+                        "__cdata": " પતિ પડોશણના પ્રેમમાં એટલો પાગલ હતો કે પત્ની અને દીકરાને મૂઢ માર મારતો હતો,પ્રેમિકા અને પતિએ માર મારતા માતા અને દિકરાએ ઘર છોડીને ભાગવું પડ્યું,પત્નીએ પોલીસ ફરિયાદ કરતાં પોલીસે ગુનો નોંધીને તપાસ હાથ ધરી "
                     },
-                    "pubDate": "Wed, 22 Jun 2022 08:30:00 +0530",
+                    "pubDate": "Wed, 22 Jun 2022 15:13:22 +0530",
                     "content": {
-                        "_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/960/2022/06/22/orig_11_1655837938.jpg",
+                        "_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/960/2022/06/22/new-project-19_1655890886.jpg",
                         "_type": "image/jpeg",
                         "_width": "1000",
                         "_height": "1000",
@@ -916,25 +1375,25 @@
                 },
                 {
                     "title": {
-                        "__cdata": " 25 જૂન સુધી પ્રવેશોત્સવ:સ્કૂલોમાં 16 હજાર શિક્ષકોની ઘટ વચ્ચે 23મીથી પ્રવેશોત્સવ યોજાશે; અધિકારીઓ-નેતાઓ સ્કૂલમાં હાજર રહેશે "
+                        "__cdata": " ચોમાસા પૂર્વે વાવણીના શ્રીગણેશ:કચ્છમાં ગત સપ્તાહે પડેલા આગોતરા વરસાદથી ખેડૂતોએ વાવેતર હાથ ધર્યું, સારા વરસાદના એંધાણથી ધરતીપુત્રોમાં ઉત્સાહ "
                     },
                     "link": [
-                        "https://www.divyabhaskar.co.in/local/gujarat/ahmedabad/news/the-entrance-ceremony-will-be-held-from-the-23rd-amid-a-shortage-of-16000-teachers-in-schools-officers-leaders-will-be-present-at-the-school-129964883.html",
+                        "https://www.divyabhaskar.co.in/local/gujarat/kutch/news/due-to-early-rains-in-kutch-last-week-farmers-started-planting-129966549.html",
                         {
-                            "_href": "https://www.divyabhaskar.co.in/local/gujarat/ahmedabad/news/the-entrance-ceremony-will-be-held-from-the-23rd-amid-a-shortage-of-16000-teachers-in-schools-officers-leaders-will-be-present-at-the-school-129964883.html",
+                            "_href": "https://www.divyabhaskar.co.in/local/gujarat/kutch/news/due-to-early-rains-in-kutch-last-week-farmers-started-planting-129966549.html",
                             "__prefix": "atom"
                         }
                     ],
                     "guid": {
                         "_isPermaLink": "true",
-                        "__text": "https://www.divyabhaskar.co.in/local/gujarat/ahmedabad/news/the-entrance-ceremony-will-be-held-from-the-23rd-amid-a-shortage-of-16000-teachers-in-schools-officers-leaders-will-be-present-at-the-school-129964883.html"
+                        "__text": "https://www.divyabhaskar.co.in/local/gujarat/kutch/news/due-to-early-rains-in-kutch-last-week-farmers-started-planting-129966549.html"
                     },
                     "description": {
-                        "__cdata": " શૈક્ષણિક સંગઠનોની માગ છતાં પ્રવાસી શિક્ષકોની ફાળવણી બાકી "
+                        "__cdata": " નખત્રાણાના વંગ, દેવીસર અને હીરાપર સહિતના વિસ્તારમાં ખેડૂતોએ વાવણી કરી "
                     },
-                    "pubDate": "Wed, 22 Jun 2022 08:30:00 +0530",
+                    "pubDate": "Wed, 22 Jun 2022 15:29:07 +0530",
                     "content": {
-                        "_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/960/2022/06/22/teachers_1655847523.jpg",
+                        "_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/960/2022/06/22/2354da6d-71ff-4067-b4e4-a7dc560ffadc_1655890815405.jpg",
                         "_type": "image/jpeg",
                         "_width": "1000",
                         "_height": "1000",
@@ -943,25 +1402,25 @@
                 },
                 {
                     "title": {
-                        "__cdata": " ભાસ્કર એક્સક્લુઝિવ:ડ્રેનેજ ચોકઅપની 3862 ફરિયાદ પેન્ડિંગ,ચોમાસામાં સ્થિતિ વકરશે "
+                        "__cdata": " ગ્રેડ પેના મુદ્દે વધુ કર્મચારીઓ મેદાને:ગીર સોમનાથમાં ITIના વર્ગ-3ના કર્મચારીઓએ સરકાર સામે લડતમાં હાથ ધરી, અન્ય રાજ્યો કરતા ગુજરાતમાં ગ્રેડ-પે ઓછો "
                     },
                     "link": [
-                        "https://www.divyabhaskar.co.in/local/gujarat/vadodara/news/3862-complaint-of-drainage-choke-pending-pending-the-situation-will-worsen-in-monsoon-129965395.html",
+                        "https://www.divyabhaskar.co.in/local/gujarat/junagadh/news/class-3-employees-of-iti-in-gir-somnath-fight-against-government-lower-grade-pay-in-gujarat-than-other-states-129966527.html",
                         {
-                            "_href": "https://www.divyabhaskar.co.in/local/gujarat/vadodara/news/3862-complaint-of-drainage-choke-pending-pending-the-situation-will-worsen-in-monsoon-129965395.html",
+                            "_href": "https://www.divyabhaskar.co.in/local/gujarat/junagadh/news/class-3-employees-of-iti-in-gir-somnath-fight-against-government-lower-grade-pay-in-gujarat-than-other-states-129966527.html",
                             "__prefix": "atom"
                         }
                     ],
                     "guid": {
                         "_isPermaLink": "true",
-                        "__text": "https://www.divyabhaskar.co.in/local/gujarat/vadodara/news/3862-complaint-of-drainage-choke-pending-pending-the-situation-will-worsen-in-monsoon-129965395.html"
+                        "__text": "https://www.divyabhaskar.co.in/local/gujarat/junagadh/news/class-3-employees-of-iti-in-gir-somnath-fight-against-government-lower-grade-pay-in-gujarat-than-other-states-129966527.html"
                     },
                     "description": {
-                        "__cdata": " હંગામી કર્મીઓની હડતાળને પગલે ડ્રેનેજની સફાઇને અસર,ઝોનમાં 60ની જગ્યાએ માત્ર 25 કર્મચારીઓ જ કામ કરી રહ્યા છે "
+                        "__cdata": " આઈટીઆઈ કર્મચારીઓને હાલ 2800નો ગ્રેડ પે મળે છે, 4205 કરવા રજૂઆત "
                     },
-                    "pubDate": "Wed, 22 Jun 2022 08:30:00 +0530",
+                    "pubDate": "Wed, 22 Jun 2022 15:19:37 +0530",
                     "content": {
-                        "_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/960/2022/06/22/orig_16_1655855210.jpg",
+                        "_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/960/2022/06/22/7c291ec6-3a8d-4f06-a5bd-6302e037144d_1655886457254.jpg",
                         "_type": "image/jpeg",
                         "_width": "1000",
                         "_height": "1000",
@@ -970,25 +1429,25 @@
                 },
                 {
                     "title": {
-                        "__cdata": " ભાસ્કર એક્સક્લૂઝિવ:હવે શિવસેનાનો ડર, ભાજપના ધારાસભ્યો ગુજરાત આવી શકે; બાવળા પાસે હોટલ બુક કરવામાં આવી "
+                        "__cdata": " ઊંટોનો વ્યવસાય મરણ પથારીએ:જામનગર અને દ્વારકામાં ઊંટોનો વ્યવસાય ભૂતકાળ બનવા તરફ, ચરિયાણ તેમેજ દૂધનો ભાવ વધુ ન મળતા પશુપાલકો વ્યવસાયથી દૂર થઈ રહ્યા છે "
                     },
                     "link": [
-                        "https://www.divyabhaskar.co.in/local/gujarat/gandhinagar/news/now-shiv-sena-fears-bjp-mlas-may-come-to-gujarat-hotel-was-booked-near-bavala-129964874.html",
+                        "https://www.divyabhaskar.co.in/local/gujarat/jamnagar/news/jamnagar-and-dwarka-camel-business-is-a-thing-of-the-past-129966395.html",
                         {
-                            "_href": "https://www.divyabhaskar.co.in/local/gujarat/gandhinagar/news/now-shiv-sena-fears-bjp-mlas-may-come-to-gujarat-hotel-was-booked-near-bavala-129964874.html",
+                            "_href": "https://www.divyabhaskar.co.in/local/gujarat/jamnagar/news/jamnagar-and-dwarka-camel-business-is-a-thing-of-the-past-129966395.html",
                             "__prefix": "atom"
                         }
                     ],
                     "guid": {
                         "_isPermaLink": "true",
-                        "__text": "https://www.divyabhaskar.co.in/local/gujarat/gandhinagar/news/now-shiv-sena-fears-bjp-mlas-may-come-to-gujarat-hotel-was-booked-near-bavala-129964874.html"
+                        "__text": "https://www.divyabhaskar.co.in/local/gujarat/jamnagar/news/jamnagar-and-dwarka-camel-business-is-a-thing-of-the-past-129966395.html"
                     },
                     "description": {
-                        "__cdata": " "
+                        "__cdata": " ઊંટડીના દૂધ ના પૂરતા ભાવ નથી મળતા, 20થી 25 રૂપિયા લીટર દૂધ વેચવું પડે છે "
                     },
-                    "pubDate": "Wed, 22 Jun 2022 08:30:00 +0530",
+                    "pubDate": "Wed, 22 Jun 2022 14:28:57 +0530",
                     "content": {
-                        "_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/960/2022/06/22/orig_35_1655847378.jpg",
+                        "_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/960/2022/06/22/e74fdfd5-2152-4727-802a-0f731e1fbb05_1655876467127.jpg",
                         "_type": "image/jpeg",
                         "_width": "1000",
                         "_height": "1000",
@@ -997,25 +1456,25 @@
                 },
                 {
                     "title": {
-                        "__cdata": " ભાસ્કર એક્સકલૂઝિવ:ચોમાસા માટે તૈયારી, ગત વર્ષે 26 સ્થળે સૌથી વધુ પાણી ભરાયાની ફરિયાદ આવી ત્યાં એલર્ટ "
+                        "__cdata": " રાજપૂતોના રિવાજોમાં સુધારો:દાહોદ રાજપૂત સમાજમાં મૃત્યુ પ્રસંગે હવે ફક્ત ત્રણ જ કફન ઓઢાડાશે, લાણી અને રોટલા બદલવાના ફાળામાં કરાયો વધારો "
                     },
                     "link": [
-                        "https://www.divyabhaskar.co.in/local/gujarat/rajkot/news/in-preparation-for-the-monsoon-there-were-26-waterlogging-complaints-last-year-129964127.html",
+                        "https://www.divyabhaskar.co.in/local/gujarat/dahod/news/in-dahod-rajput-community-only-three-shrouds-will-be-unveiled-on-the-occasion-of-death-increase-in-contribution-for-changing-lani-and-roti-129966522.html",
                         {
-                            "_href": "https://www.divyabhaskar.co.in/local/gujarat/rajkot/news/in-preparation-for-the-monsoon-there-were-26-waterlogging-complaints-last-year-129964127.html",
+                            "_href": "https://www.divyabhaskar.co.in/local/gujarat/dahod/news/in-dahod-rajput-community-only-three-shrouds-will-be-unveiled-on-the-occasion-of-death-increase-in-contribution-for-changing-lani-and-roti-129966522.html",
                             "__prefix": "atom"
                         }
                     ],
                     "guid": {
                         "_isPermaLink": "true",
-                        "__text": "https://www.divyabhaskar.co.in/local/gujarat/rajkot/news/in-preparation-for-the-monsoon-there-were-26-waterlogging-complaints-last-year-129964127.html"
+                        "__text": "https://www.divyabhaskar.co.in/local/gujarat/dahod/news/in-dahod-rajput-community-only-three-shrouds-will-be-unveiled-on-the-occasion-of-death-increase-in-contribution-for-changing-lani-and-roti-129966522.html"
                     },
                     "description": {
-                        "__cdata": " રાજકોટ શહેરમાં 32 નીચાણવાળા વિસ્તાર એવા જ્યાં અવારનવાર રેસ્ક્યૂ કરવાની જરૂર પડે,ફાયરબ્રિગેડે પ્લાન બનાવ્યો, વરસાદ ચાલુ થાય એટલે ટીમને સ્ટેન્ડ ટુ રાખવા સૂચના "
+                        "__cdata": " જૂના નિયમોને બદલીને સર્વાાનુમતે નવા નિયમો અમલમાં મુકવા માટેનો એક સૂર "
                     },
-                    "pubDate": "Wed, 22 Jun 2022 08:30:00 +0530",
+                    "pubDate": "Wed, 22 Jun 2022 15:16:01 +0530",
                     "content": {
-                        "_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/960/2022/06/22/rain-2_1655852669.jpg",
+                        "_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/960/2022/06/22/local-news-2022730-x-5480111_1655893911.jpg",
                         "_type": "image/jpeg",
                         "_width": "1000",
                         "_height": "1000",
@@ -1024,25 +1483,25 @@
                 },
                 {
                     "title": {
-                        "__cdata": " દિલ્હી-મુંબઈ એક્સપ્રેસ વે:અમદાવાદથી મુંબઈ માત્ર 6 કલાકમાં, દિલ્હી 10 કલાકમાં પહોંચાશે; સંપૂર્ણ રૂટ એપ્રિલ 2023 સુધી પૂર્ણ કરવાનો ટારગેટ "
+                        "__cdata": " ચોરીના CCTV:અંકલેશ્વરમાં તસ્કરોએ શટરના જાળી વાળા લોકને તોડી જવેલર્સમાં પ્રવેશ કર્યો, 1.41 લાખનો મુદ્દામાલ લઇ રફુચક્કર "
                     },
                     "link": [
-                        "https://www.divyabhaskar.co.in/local/gujarat/ahmedabad/news/from-ahmedabad-to-mumbai-in-just-6-hours-delhi-in-10-hours-target-to-complete-full-route-by-april-2023-129964335.html",
+                        "https://www.divyabhaskar.co.in/local/gujarat/bharuch/news/smugglers-break-shutter-locks-and-enter-jewelers-in-ankleshwar-take-rs-141-lakh-129966448.html",
                         {
-                            "_href": "https://www.divyabhaskar.co.in/local/gujarat/ahmedabad/news/from-ahmedabad-to-mumbai-in-just-6-hours-delhi-in-10-hours-target-to-complete-full-route-by-april-2023-129964335.html",
+                            "_href": "https://www.divyabhaskar.co.in/local/gujarat/bharuch/news/smugglers-break-shutter-locks-and-enter-jewelers-in-ankleshwar-take-rs-141-lakh-129966448.html",
                             "__prefix": "atom"
                         }
                     ],
                     "guid": {
                         "_isPermaLink": "true",
-                        "__text": "https://www.divyabhaskar.co.in/local/gujarat/ahmedabad/news/from-ahmedabad-to-mumbai-in-just-6-hours-delhi-in-10-hours-target-to-complete-full-route-by-april-2023-129964335.html"
+                        "__text": "https://www.divyabhaskar.co.in/local/gujarat/bharuch/news/smugglers-break-shutter-locks-and-enter-jewelers-in-ankleshwar-take-rs-141-lakh-129966448.html"
                     },
                     "description": {
-                        "__cdata": " એક્સપ્રેસ વેથી માત્ર દક્ષિણ ગુજરાત જ નહીં, પરંતુ મધ્ય ગુજરાત અને સૌરાષ્ટ્રના વિસ્તારોને પણ ખાસ ફાયદો મળશે,8 લેનના એક્સપ્રેસ વે પર મહત્તમ 120 કિમી પ્રતિ કલાકની ઝડપે વાહનો દોડશે, જેની ટ્રાયલ પણ કરવામાં આવી હતી,દેશનો પહેલો 8 લેન એક્સપ્રેસ-વે, એક લેન ઈલેક્ટ્રિક વ્હિકલ માટે ફાળવાશે,દર વર્ષે 32 કરોડ લિટર ફ્યૂઅલની બચત થશે, રૂટ પર 75થી વધારે સુવિધા,નર્મદા નદી પર 2 કિમી લાંબો 8 લેન એક્સ્ટ્રાડોઝ કેબલ સ્પાન બ્રિજ બનાવાશે "
+                        "__cdata": " ગડખોલ પાટિયા પાસે આવેલા દિપક જવેલર્સને તસ્કરોએ નિશાન બનાવ્યું "
                     },
-                    "pubDate": "Wed, 22 Jun 2022 08:30:00 +0530",
+                    "pubDate": "Wed, 22 Jun 2022 14:46:52 +0530",
                     "content": {
-                        "_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/960/2022/06/22/orig_16_1655839853.jpg",
+                        "_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/960/2022/06/22/4836312e-bfd6-4946-b2e1-9e6d67523968_1655880666217.jpg",
                         "_type": "image/jpeg",
                         "_width": "1000",
                         "_height": "1000",
@@ -1051,25 +1510,25 @@
                 },
                 {
                     "title": {
-                        "__cdata": " ભાસ્કર એક્સક્લુઝિવ:સેનામાં જોડાવા બે વર્ષથી તાલીમ લઇ રહેલા ધરમપુરના 200 યુવક-યુવતીમાં નવી ભરતી પ્રક્રિયાથી નિરાશા "
+                        "__cdata": " ખેડૂતોનું અલ્ટીમેટમ:ધ્રાંગધ્રા તાલુકાના ગામોની કેનાલમાં નર્મદાનું પાણી ન મળે તો ભાજપના નેતાઓને ગામમાં નો-એન્ટ્રી "
                     },
                     "link": [
-                        "https://www.divyabhaskar.co.in/local/gujarat/valsad/dharampur/news/disappointment-over-new-recruitment-process-for-200-youths-from-dharampur-who-have-been-training-for-two-years-to-join-army-129965032.html",
+                        "https://www.divyabhaskar.co.in/local/gujarat/surendranagar/news/if-narmada-water-is-not-available-in-the-canals-of-villages-of-dhrangadhra-taluka-bjp-leaders-will-have-no-entry-in-the-village-129966469.html",
                         {
-                            "_href": "https://www.divyabhaskar.co.in/local/gujarat/valsad/dharampur/news/disappointment-over-new-recruitment-process-for-200-youths-from-dharampur-who-have-been-training-for-two-years-to-join-army-129965032.html",
+                            "_href": "https://www.divyabhaskar.co.in/local/gujarat/surendranagar/news/if-narmada-water-is-not-available-in-the-canals-of-villages-of-dhrangadhra-taluka-bjp-leaders-will-have-no-entry-in-the-village-129966469.html",
                             "__prefix": "atom"
                         }
                     ],
                     "guid": {
                         "_isPermaLink": "true",
-                        "__text": "https://www.divyabhaskar.co.in/local/gujarat/valsad/dharampur/news/disappointment-over-new-recruitment-process-for-200-youths-from-dharampur-who-have-been-training-for-two-years-to-join-army-129965032.html"
+                        "__text": "https://www.divyabhaskar.co.in/local/gujarat/surendranagar/news/if-narmada-water-is-not-available-in-the-canals-of-villages-of-dhrangadhra-taluka-bjp-leaders-will-have-no-entry-in-the-village-129966469.html"
                     },
                     "description": {
-                        "__cdata": " ભારતીય સેનામાં માત્ર ચાર વર્ષની નોકરી બાદ નિવૃતિના સરકારના નિર્ણયને લઇને યુવાવર્ગ આક્રોશની સાથે આંદોલન કરી રહ્યા છે,હાલ ધરમપુર અને કપરાડા તાલુકાના 35થી વધુ યુવકો ભારતીય સેનામાં ફરજ બજાવે છે, જ્યારે અનેક યુવકોએ તૈયારી કરી હતી "
+                        "__cdata": " ધ્રાંગધ્રાના ખેડૂત આગેવાન જે.કે.પટેલની હાકલ પડતાં ગામોમાં લાગ્યા પ્રવેશબંધીના બોર્ડ,ગામડાઓમાં પ્રવેશબંધીના બોર્ડ લાગતા સ્થાનિક રાજકારણમાં ગરમાવો "
                     },
-                    "pubDate": "Wed, 22 Jun 2022 08:30:00 +0530",
+                    "pubDate": "Wed, 22 Jun 2022 14:55:23 +0530",
                     "content": {
-                        "_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/960/2022/06/22/orig_0_1655849412.jpg",
+                        "_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/960/2022/06/22/68cc6d87-b7a1-4636-94cd-89ac2c46b32a_1655886990189.jpg",
                         "_type": "image/jpeg",
                         "_width": "1000",
                         "_height": "1000",
@@ -1078,25 +1537,25 @@
                 },
                 {
                     "title": {
-                        "__cdata": " દિવ્ય ભાસ્કર ‘ફેમિલિ’ રિસર્ચ:ગુજરાતમાં 30 લાખ સંયુક્ત પરિવાર, 23% સાથે દેશમાં 5મા ક્રમે... આ જ મોટી તાકાત "
+                        "__cdata": " કોંગ્રેસનું હલ્લાબોલ:રાહુલ ગાંધીની ઇડી દ્વારા પૂછપરછ કરાતા અમરેલી અને સાવરકુંડલા કોંગ્રેસનું હલ્લાબોલ, 30 કાર્યકરોની અટકાયત "
                     },
                     "link": [
-                        "https://www.divyabhaskar.co.in/local/gujarat/ahmedabad/news/30-lakh-joint-family-in-gujarat-5th-in-the-country-with-23-this-is-the-biggest-strength-129964120.html",
+                        "https://www.divyabhaskar.co.in/local/gujarat/amreli/news/amreli-and-savarkundla-congress-raids-rahul-gandhis-ed-30-activists-detained-129966431.html",
                         {
-                            "_href": "https://www.divyabhaskar.co.in/local/gujarat/ahmedabad/news/30-lakh-joint-family-in-gujarat-5th-in-the-country-with-23-this-is-the-biggest-strength-129964120.html",
+                            "_href": "https://www.divyabhaskar.co.in/local/gujarat/amreli/news/amreli-and-savarkundla-congress-raids-rahul-gandhis-ed-30-activists-detained-129966431.html",
                             "__prefix": "atom"
                         }
                     ],
                     "guid": {
                         "_isPermaLink": "true",
-                        "__text": "https://www.divyabhaskar.co.in/local/gujarat/ahmedabad/news/30-lakh-joint-family-in-gujarat-5th-in-the-country-with-23-this-is-the-biggest-strength-129964120.html"
+                        "__text": "https://www.divyabhaskar.co.in/local/gujarat/amreli/news/amreli-and-savarkundla-congress-raids-rahul-gandhis-ed-30-activists-detained-129966431.html"
                     },
                     "description": {
-                        "__cdata": " દેશ-વિદેશના ભારતીય પર્યટકોમાં, ગુજરાતી ફેમિલી વેકેશનનો 30% ફાળો,અમદાવાદનું માણેકચોક ...જ્યાં રોજ એક સાથે 1000 પરિવાર જમે છે "
+                        "__cdata": " ધારાસભ્ય પરેશ ધાનાણીના ભાઈ શરદ ધાનાણી સહિતના કાર્યકરોને પોલીસે ડિટેન કર્યા "
                     },
-                    "pubDate": "Wed, 22 Jun 2022 08:30:00 +0530",
+                    "pubDate": "Wed, 22 Jun 2022 14:41:39 +0530",
                     "content": {
-                        "_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/960/2022/06/22/orig_9_1655837501.jpg",
+                        "_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/960/2022/06/22/bcc560eb-f8cf-4e00-96d0-f8f749115cfb_1655880554147.jpg",
                         "_type": "image/jpeg",
                         "_width": "1000",
                         "_height": "1000",
@@ -1105,25 +1564,25 @@
                 },
                 {
                     "title": {
-                        "__cdata": " પાકો રોડ બનાવવા રજૂઆત:સિદ્ધપુરના પુનાસણથી વનાસણ સુધી કાચો માર્ગ 5 વર્ષથી પાકો બન્યો નથી "
+                        "__cdata": " 90 હજાર પરિવારને પાણી ન મળ્યું:જામનગરમાં આજે 100 વિસ્તારોમાં પાણી કાપ, પાઇપલાઇનનું કામ રાત સુધીમાં પૂર્ણ કરી દેવામાં આવશે "
                     },
                     "link": [
-                        "https://www.divyabhaskar.co.in/local/gujarat/patan/news/the-unpaved-road-from-punasan-to-vanasan-in-siddhpur-has-not-been-paved-for-5-years-129965528.html",
+                        "https://www.divyabhaskar.co.in/local/gujarat/jamnagar/news/water-cut-in-100-areas-in-jamnagar-today-pipeline-work-will-be-completed-by-night-129966406.html",
                         {
-                            "_href": "https://www.divyabhaskar.co.in/local/gujarat/patan/news/the-unpaved-road-from-punasan-to-vanasan-in-siddhpur-has-not-been-paved-for-5-years-129965528.html",
+                            "_href": "https://www.divyabhaskar.co.in/local/gujarat/jamnagar/news/water-cut-in-100-areas-in-jamnagar-today-pipeline-work-will-be-completed-by-night-129966406.html",
                             "__prefix": "atom"
                         }
                     ],
                     "guid": {
                         "_isPermaLink": "true",
-                        "__text": "https://www.divyabhaskar.co.in/local/gujarat/patan/news/the-unpaved-road-from-punasan-to-vanasan-in-siddhpur-has-not-been-paved-for-5-years-129965528.html"
+                        "__text": "https://www.divyabhaskar.co.in/local/gujarat/jamnagar/news/water-cut-in-100-areas-in-jamnagar-today-pipeline-work-will-be-completed-by-night-129966406.html"
                     },
                     "description": {
-                        "__cdata": " 7 ગામોના લોકોને ચોમાસામાં કાદવ કીચડમાંથી પસાર થવું પડે છે3,પુનાસણ ગા.પં. દ્વારા માર્ગ મકાન વિભાગના મંત્રીને પાકો રોડ બનાવવા રજૂઆત "
+                        "__cdata": " શહેરમાં ગુરૂવારે પ્રથમ ઝોન-એ અને બીમાં પાણી વિતરણ કરવામાં આવશે, શનિવારથી રાબેતા મુજબ પાણી અપાશે "
                     },
-                    "pubDate": "Wed, 22 Jun 2022 05:51:27 +0530",
+                    "pubDate": "Wed, 22 Jun 2022 14:33:05 +0530",
                     "content": {
-                        "_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/960/2022/06/22/01_1655865978.jpg",
+                        "_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/960/2022/06/22/b32a3320-7ee1-4113-93b2-bc0e5e810bac_1655879091009.jpg",
                         "_type": "image/jpeg",
                         "_width": "1000",
                         "_height": "1000",
@@ -1132,45 +1591,25 @@
                 },
                 {
                     "title": {
-                        "__cdata": " અકસ્માત:સુરતથી આણંદ જતી કારને અકસ્માત થતાં ડ્રાઇવરનું મોત "
+                        "__cdata": " વાલીઓને રાહત આપવાનો પ્રયાસ:સેવા મિત્ર મંડળના યુવા સભ્યોએ પોકેટમનીનો ઉપયોગ કરી 1000થી વધુ બાળકોને વિનામૂલ્યે નોટબુક આપી "
                     },
                     "link": [
-                        "https://www.divyabhaskar.co.in/local/gujarat/bharuch/news/driver-killed-in-car-accident-from-surat-to-anand-129965703.html",
+                        "https://www.divyabhaskar.co.in/local/gujarat/valsad/news/young-members-of-seva-mitra-mandal-used-pocket-money-to-give-free-notebooks-to-more-than-1000-children-129966399.html",
                         {
-                            "_href": "https://www.divyabhaskar.co.in/local/gujarat/bharuch/news/driver-killed-in-car-accident-from-surat-to-anand-129965703.html",
+                            "_href": "https://www.divyabhaskar.co.in/local/gujarat/valsad/news/young-members-of-seva-mitra-mandal-used-pocket-money-to-give-free-notebooks-to-more-than-1000-children-129966399.html",
                             "__prefix": "atom"
                         }
                     ],
                     "guid": {
                         "_isPermaLink": "true",
-                        "__text": "https://www.divyabhaskar.co.in/local/gujarat/bharuch/news/driver-killed-in-car-accident-from-surat-to-anand-129965703.html"
+                        "__text": "https://www.divyabhaskar.co.in/local/gujarat/valsad/news/young-members-of-seva-mitra-mandal-used-pocket-money-to-give-free-notebooks-to-more-than-1000-children-129966399.html"
                     },
                     "description": {
-                        "__cdata": " ભરૂચ નેશનલ હાઇવે પર બનેલી ઘટના,નબીપુર પોલીસ મથકમાં ફરિયાદ નોંધાઇ "
+                        "__cdata": " સેવા મિત્ર જિલ્લામાં તમામ બાળકોને બેઝિક અભ્યાસ થાય અને જિલ્લામાં ડ્રોપઆઉટ રેટ ઘટાડવા પ્રયાસ,'ખજૂરભાઈ'ની હાજરીમાં કાર્યક્રમનું આયોજન કરવામાં આવ્યું "
                     },
-                    "pubDate": "Wed, 22 Jun 2022 07:49:02 +0530"
-                },
-                {
-                    "title": {
-                        "__cdata": " સૂચના:કેવડિયામાં આડેધડ નિર્ણયો લેતા સત્તા મંડળ સામે પ્રભારી મંત્રીની લાલ આંખ "
-                    },
-                    "link": [
-                        "https://www.divyabhaskar.co.in/local/gujarat/narmada/news/the-red-eye-of-the-minister-in-charge-against-the-ruling-party-taking-haphazard-decisions-in-kevadia-129965699.html",
-                        {
-                            "_href": "https://www.divyabhaskar.co.in/local/gujarat/narmada/news/the-red-eye-of-the-minister-in-charge-against-the-ruling-party-taking-haphazard-decisions-in-kevadia-129965699.html",
-                            "__prefix": "atom"
-                        }
-                    ],
-                    "guid": {
-                        "_isPermaLink": "true",
-                        "__text": "https://www.divyabhaskar.co.in/local/gujarat/narmada/news/the-red-eye-of-the-minister-in-charge-against-the-ruling-party-taking-haphazard-decisions-in-kevadia-129965699.html"
-                    },
-                    "description": {
-                        "__cdata": " અધિકારીઓ અને ચૂંટાયેલા જનપ્રતિનિધિઓ સાથેની બેઠકમાં મંત્રીએ સૂચના આપી "
-                    },
-                    "pubDate": "Wed, 22 Jun 2022 07:48:00 +0530",
+                    "pubDate": "Wed, 22 Jun 2022 14:30:26 +0530",
                     "content": {
-                        "_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/960/2022/06/22/orig_34_1655864276.jpg",
+                        "_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/960/2022/06/22/0cdc581e-198f-4267-9c8f-7560de574a7f_1655808462110.jpg",
                         "_type": "image/jpeg",
                         "_width": "1000",
                         "_height": "1000",
@@ -1179,371 +1618,35 @@
                 },
                 {
                     "title": {
-                        "__cdata": " ભૂકંપ:કેવડિયામાં આવેલા ભૂકંપનું એપી સેન્ટર માથસર ગામે "
+                        "__cdata": " બેરોજગારોને નોકરી મળશે:ગાંધીનગરના ભાટ, પેથાપુર અને ઝૂંડાલમાં કરોડો રૂપિયાના ખર્ચે અદ્યતન ફાયર સ્ટેશન બનાવાશે, 6 હજાર સ્કવેર મીટર જમીનની ફાળવણી કરાઈ "
                     },
                     "link": [
-                        "https://www.divyabhaskar.co.in/local/gujarat/narmada/news/the-epicenter-of-the-earthquake-in-kevadia-was-at-mathsar-village-129965694.html",
+                        "https://www.divyabhaskar.co.in/local/gujarat/gandhinagar/news/a-state-of-the-art-fire-station-will-be-set-up-at-bhat-pethapur-and-zundal-in-gandhinagar-at-a-cost-of-crores-of-rupees-6000-square-meters-of-land-has-been-allotted-129966383.html",
                         {
-                            "_href": "https://www.divyabhaskar.co.in/local/gujarat/narmada/news/the-epicenter-of-the-earthquake-in-kevadia-was-at-mathsar-village-129965694.html",
+                            "_href": "https://www.divyabhaskar.co.in/local/gujarat/gandhinagar/news/a-state-of-the-art-fire-station-will-be-set-up-at-bhat-pethapur-and-zundal-in-gandhinagar-at-a-cost-of-crores-of-rupees-6000-square-meters-of-land-has-been-allotted-129966383.html",
                             "__prefix": "atom"
                         }
                     ],
                     "guid": {
                         "_isPermaLink": "true",
-                        "__text": "https://www.divyabhaskar.co.in/local/gujarat/narmada/news/the-epicenter-of-the-earthquake-in-kevadia-was-at-mathsar-village-129965694.html"
+                        "__text": "https://www.divyabhaskar.co.in/local/gujarat/gandhinagar/news/a-state-of-the-art-fire-station-will-be-set-up-at-bhat-pethapur-and-zundal-in-gandhinagar-at-a-cost-of-crores-of-rupees-6000-square-meters-of-land-has-been-allotted-129966383.html"
                     },
                     "description": {
-                        "__cdata": " સોમવારે 3.7ની તીવ્રતાનો ભૂકંપ આવ્યો હતો "
+                        "__cdata": " અંદાજીત 54 કરોડના ખર્ચે આધુનિક વાહનોની ખરીદી ઉપરાંત આધુનિક સ્ટાફ ક્વાર્ટર્સ પણ બનશે,કોન્ફરન્સ રૂમ, રેકોર્ડ રૂમ તેમજ કંટ્રોલ રૂમ સહીતની અદ્યતન સુવિધાઓ ઉભી કરાશે "
                     },
-                    "pubDate": "Wed, 22 Jun 2022 07:44:21 +0530"
-                },
-                {
-                    "title": {
-                        "__cdata": " આયોજન:ભરૂચના સંવેદનશીલ વિસ્તારોમાં રથયાત્રા પૂર્વે પોલીસની ફ્લેગ માર્ચ "
-                    },
-                    "link": [
-                        "https://www.divyabhaskar.co.in/local/gujarat/bharuch/news/police-flag-march-before-rath-yatra-in-sensitive-areas-of-bharuch-129965690.html",
-                        {
-                            "_href": "https://www.divyabhaskar.co.in/local/gujarat/bharuch/news/police-flag-march-before-rath-yatra-in-sensitive-areas-of-bharuch-129965690.html",
-                            "__prefix": "atom"
-                        }
-                    ],
-                    "guid": {
-                        "_isPermaLink": "true",
-                        "__text": "https://www.divyabhaskar.co.in/local/gujarat/bharuch/news/police-flag-march-before-rath-yatra-in-sensitive-areas-of-bharuch-129965690.html"
-                    },
-                    "description": {
-                        "__cdata": " અષાઢી બીજના દિવસે શહેરમાં બે સ્થળોએ રથયાત્રા નીકળશે "
-                    },
-                    "pubDate": "Wed, 22 Jun 2022 07:41:56 +0530",
+                    "pubDate": "Wed, 22 Jun 2022 14:20:33 +0530",
                     "content": {
-                        "_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/960/2022/06/22/orig_33_1655863913.jpg",
+                        "_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/960/2022/06/22/3d1d1dd0-4431-4f72-82de-c3ddff124de7_1655877876911.jpg",
                         "_type": "image/jpeg",
                         "_width": "1000",
                         "_height": "1000",
                         "__prefix": "media"
                     }
-                },
-                {
-                    "title": {
-                        "__cdata": " શરમજનક ઘટના:વિધવા મહિલાની છેડતી કરનારા શખ્સ વિરુદ્ધ પોલીસમાં ફરિયાદ "
-                    },
-                    "link": [
-                        "https://www.divyabhaskar.co.in/local/gujarat/bharuch/news/complaint-lodged-against-a-person-who-molested-a-widow-129965686.html",
-                        {
-                            "_href": "https://www.divyabhaskar.co.in/local/gujarat/bharuch/news/complaint-lodged-against-a-person-who-molested-a-widow-129965686.html",
-                            "__prefix": "atom"
-                        }
-                    ],
-                    "guid": {
-                        "_isPermaLink": "true",
-                        "__text": "https://www.divyabhaskar.co.in/local/gujarat/bharuch/news/complaint-lodged-against-a-person-who-molested-a-widow-129965686.html"
-                    },
-                    "description": {
-                        "__cdata": " ભરૂચ તાલુકામાં આવેલાં એક ગામમાં બનેલી શરમજનક ઘટના "
-                    },
-                    "pubDate": "Wed, 22 Jun 2022 07:39:43 +0530"
-                },
-                {
-                    "title": {
-                        "__cdata": " અરજી ફગાવાઇ:છોટાઉદેપુર પૂર્વ પ્રમુખ નરેન જયસ્વાલનું સભ્યપદ રદ કરવાની અરજી ફગાવાઇ "
-                    },
-                    "link": [
-                        "https://www.divyabhaskar.co.in/local/gujarat/chhota-udaipur/news/former-president-of-chhotaudepur-naren-jaiswals-application-to-cancel-his-membership-was-rejected-129965674.html",
-                        {
-                            "_href": "https://www.divyabhaskar.co.in/local/gujarat/chhota-udaipur/news/former-president-of-chhotaudepur-naren-jaiswals-application-to-cancel-his-membership-was-rejected-129965674.html",
-                            "__prefix": "atom"
-                        }
-                    ],
-                    "guid": {
-                        "_isPermaLink": "true",
-                        "__text": "https://www.divyabhaskar.co.in/local/gujarat/chhota-udaipur/news/former-president-of-chhotaudepur-naren-jaiswals-application-to-cancel-his-membership-was-rejected-129965674.html"
-                    },
-                    "description": {
-                        "__cdata": " 24 સભ્યોએ પ્રમુખપદેથી સસ્પેન્ડ કરવા તથા સભ્યપદ રદ કરવા અરજી કરી હતી "
-                    },
-                    "pubDate": "Wed, 22 Jun 2022 07:30:27 +0530"
-                },
-                {
-                    "title": {
-                        "__cdata": " ભાસ્કર વિશેષ:આજથી છોટાઉદેપુરમાં ‘વંદે ગુજરાત: 20 વર્ષનો સાથ 20 વર્ષનો વિશ્વાસ’ પ્રદર્શનનો પ્રારંભ થશે "
-                    },
-                    "link": [
-                        "https://www.divyabhaskar.co.in/local/gujarat/chhota-udaipur/news/vande-gujarat-20-years-with-20-years-of-faith-exhibition-will-start-in-chhotaudepur-from-today-129965657.html",
-                        {
-                            "_href": "https://www.divyabhaskar.co.in/local/gujarat/chhota-udaipur/news/vande-gujarat-20-years-with-20-years-of-faith-exhibition-will-start-in-chhotaudepur-from-today-129965657.html",
-                            "__prefix": "atom"
-                        }
-                    ],
-                    "guid": {
-                        "_isPermaLink": "true",
-                        "__text": "https://www.divyabhaskar.co.in/local/gujarat/chhota-udaipur/news/vande-gujarat-20-years-with-20-years-of-faith-exhibition-will-start-in-chhotaudepur-from-today-129965657.html"
-                    },
-                    "description": {
-                        "__cdata": " 7 દિવસીય જિલ્લા કક્ષાના મેળાનો શુભારંભ સાંસદ ગીતાબેન રાઠવાના હસ્તે કરાશે,છોટાઉદેપુર જિ.ના સ્વસહાય જૂથો દ્વારા ઉત્પાદિત ચીજવસ્તુઓનું પ્રદર્શન/વેચાણ માટે 50 સ્ટોલ ઉભા કરાયાં "
-                    },
-                    "pubDate": "Wed, 22 Jun 2022 07:22:36 +0530"
-                },
-                {
-                    "title": {
-                        "__cdata": " પ્રવેશોત્સવ:દાહોદ : 35,898 બાળકોને ધોરણ1માં પ્રવેશ અપાશે "
-                    },
-                    "link": [
-                        "https://www.divyabhaskar.co.in/local/gujarat/dahod/news/dahod-35898-children-will-be-given-admission-in-standard-1-129965635.html",
-                        {
-                            "_href": "https://www.divyabhaskar.co.in/local/gujarat/dahod/news/dahod-35898-children-will-be-given-admission-in-standard-1-129965635.html",
-                            "__prefix": "atom"
-                        }
-                    ],
-                    "guid": {
-                        "_isPermaLink": "true",
-                        "__text": "https://www.divyabhaskar.co.in/local/gujarat/dahod/news/dahod-35898-children-will-be-given-admission-in-standard-1-129965635.html"
-                    },
-                    "description": {
-                        "__cdata": " તા.23થી 25 જૂન દરમિયાન કન્યા કેળવણી અને શાળા પ્રવેશોત્સવ "
-                    },
-                    "pubDate": "Wed, 22 Jun 2022 07:05:44 +0530"
-                },
-                {
-                    "title": {
-                        "__cdata": " ભાસ્કર વિશેષ:બાગી ધારાસભ્યો મુદ્દે આખો દિવસ સોશિયલ મીડિયામાં મિમસ્નો મારો "
-                    },
-                    "link": [
-                        "https://www.divyabhaskar.co.in/local/gujarat/surat/news/beat-mims-on-social-media-all-day-on-the-issue-of-rebel-legislators-129965376.html",
-                        {
-                            "_href": "https://www.divyabhaskar.co.in/local/gujarat/surat/news/beat-mims-on-social-media-all-day-on-the-issue-of-rebel-legislators-129965376.html",
-                            "__prefix": "atom"
-                        }
-                    ],
-                    "guid": {
-                        "_isPermaLink": "true",
-                        "__text": "https://www.divyabhaskar.co.in/local/gujarat/surat/news/beat-mims-on-social-media-all-day-on-the-issue-of-rebel-legislators-129965376.html"
-                    },
-                    "description": {
-                        "__cdata": " ‘હાં, અપુન ને ચીટિંગ કિયા હૈ, જો ઉખાડના હૈ વો ઉખાડ લો’,‘જિસ કા ખુદ તલાક હુઆ હો વો દુસરો કી શાદી મેં મંત્ર પઢેગા’ "
-                    },
-                    "pubDate": "Wed, 22 Jun 2022 05:12:38 +0530",
-                    "content": {
-                        "_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/960/2022/06/22/orig_000_1655854906.jpg",
-                        "_type": "image/jpeg",
-                        "_width": "1000",
-                        "_height": "1000",
-                        "__prefix": "media"
-                    }
-                },
-                {
-                    "title": {
-                        "__cdata": " મહિલાને કસ્ટમ વિભાગની નોટિસ:સુરતમાં ઘરકામ કરતી મહિલાને ચાર કરોડ રૂપિયાની નોટિસ ફટકારી; 15 દિવસમાં જવાબ આપવા જણાવ્યું "
-                    },
-                    "link": [
-                        "https://www.divyabhaskar.co.in/local/gujarat/surat/news/the-customs-department-issued-a-notice-of-rs-4-crore-to-the-housewife-129965433.html",
-                        {
-                            "_href": "https://www.divyabhaskar.co.in/local/gujarat/surat/news/the-customs-department-issued-a-notice-of-rs-4-crore-to-the-housewife-129965433.html",
-                            "__prefix": "atom"
-                        }
-                    ],
-                    "guid": {
-                        "_isPermaLink": "true",
-                        "__text": "https://www.divyabhaskar.co.in/local/gujarat/surat/news/the-customs-department-issued-a-notice-of-rs-4-crore-to-the-housewife-129965433.html"
-                    },
-                    "description": {
-                        "__cdata": " મહિલાના સંબંધીએ કૌભાંડીને આપેલા ડોક્યુમેન્ટના આધારે ખેલ પડાયો "
-                    },
-                    "pubDate": "Wed, 22 Jun 2022 05:27:21 +0530",
-                    "content": {
-                        "_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/960/2022/06/22/0_1655861002.jpg",
-                        "_type": "image/jpeg",
-                        "_width": "1000",
-                        "_height": "1000",
-                        "__prefix": "media"
-                    }
-                },
-                {
-                    "title": {
-                        "__cdata": " રજૂઆત:નાની કાંટડીની લગડી જમીનના વેચાણ દસ્તાવેજની નોંધ રદ કરવા રજૂઆત "
-                    },
-                    "link": [
-                        "https://www.divyabhaskar.co.in/local/gujarat/panchmahal/news/submission-to-cancel-the-note-of-sale-document-of-small-barbed-wire-land-129965626.html",
-                        {
-                            "_href": "https://www.divyabhaskar.co.in/local/gujarat/panchmahal/news/submission-to-cancel-the-note-of-sale-document-of-small-barbed-wire-land-129965626.html",
-                            "__prefix": "atom"
-                        }
-                    ],
-                    "guid": {
-                        "_isPermaLink": "true",
-                        "__text": "https://www.divyabhaskar.co.in/local/gujarat/panchmahal/news/submission-to-cancel-the-note-of-sale-document-of-small-barbed-wire-land-129965626.html"
-                    },
-                    "description": {
-                        "__cdata": " જિલ્લા પંચાયત પ્રમુખ સહિત આગેવાનોએ કલેકટરને લેખિતમાં આવેદન આપ્યું "
-                    },
-                    "pubDate": "Wed, 22 Jun 2022 07:01:11 +0530"
-                },
-                {
-                    "title": {
-                        "__cdata": " કાર્યવાહી:10.33 લાખના દારૂ ભરેલ કન્ટેનર સાથે 1 ઝબ્બે "
-                    },
-                    "link": [
-                        "https://www.divyabhaskar.co.in/local/gujarat/panchmahal/news/1-jabbe-with-1033-lakh-liquor-filled-container-129965623.html",
-                        {
-                            "_href": "https://www.divyabhaskar.co.in/local/gujarat/panchmahal/news/1-jabbe-with-1033-lakh-liquor-filled-container-129965623.html",
-                            "__prefix": "atom"
-                        }
-                    ],
-                    "guid": {
-                        "_isPermaLink": "true",
-                        "__text": "https://www.divyabhaskar.co.in/local/gujarat/panchmahal/news/1-jabbe-with-1033-lakh-liquor-filled-container-129965623.html"
-                    },
-                    "description": {
-                        "__cdata": " "
-                    },
-                    "pubDate": "Wed, 22 Jun 2022 07:00:09 +0530"
-                },
-                {
-                    "title": {
-                        "__cdata": " દિવ્યાંગોને ઇંગ્લિશ મીડિયમમાં ભણવાનો અધિકાર નથી!:ગુજરાતમાં સામાન્ય સ્કૂલોમાં ધો.1થી અંગ્રેજી, પણ દિવ્યાંગોની 132 સ્કૂલ છતાં એકપણ ઇંગ્લિશ મીડિયમની સ્કૂલ નહીં "
-                    },
-                    "link": [
-                        "https://www.divyabhaskar.co.in/local/gujarat/ahmedabad/news/132-schools-for-the-divyang-but-not-a-single-english-medium-school-in-gujarat-129962910.html",
-                        {
-                            "_href": "https://www.divyabhaskar.co.in/local/gujarat/ahmedabad/news/132-schools-for-the-divyang-but-not-a-single-english-medium-school-in-gujarat-129962910.html",
-                            "__prefix": "atom"
-                        }
-                    ],
-                    "guid": {
-                        "_isPermaLink": "true",
-                        "__text": "https://www.divyabhaskar.co.in/local/gujarat/ahmedabad/news/132-schools-for-the-divyang-but-not-a-single-english-medium-school-in-gujarat-129962910.html"
-                    },
-                    "description": {
-                        "__cdata": " "
-                    },
-                    "pubDate": "Wed, 22 Jun 2022 07:00:00 +0530",
-                    "content": {
-                        "_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/960/2022/06/21/21062022_1655815151.jpg",
-                        "_type": "image/jpeg",
-                        "_width": "1000",
-                        "_height": "1000",
-                        "__prefix": "media"
-                    }
-                },
-                {
-                    "title": {
-                        "__cdata": " આક્ષેપ:અમારા ધારાસભ્યોનું અપહરણ કરીને સુરત લઈ જવાયાઃ રાઉત "
-                    },
-                    "link": [
-                        "https://www.divyabhaskar.co.in/local/gujarat/mumbai/news/our-mlas-were-abducted-and-taken-to-surat-raut-129965620.html",
-                        {
-                            "_href": "https://www.divyabhaskar.co.in/local/gujarat/mumbai/news/our-mlas-were-abducted-and-taken-to-surat-raut-129965620.html",
-                            "__prefix": "atom"
-                        }
-                    ],
-                    "guid": {
-                        "_isPermaLink": "true",
-                        "__text": "https://www.divyabhaskar.co.in/local/gujarat/mumbai/news/our-mlas-were-abducted-and-taken-to-surat-raut-129965620.html"
-                    },
-                    "description": {
-                        "__cdata": " ભાગવાનો પ્રયાસ કરતાં જીવલેણ હુમલો "
-                    },
-                    "pubDate": "Wed, 22 Jun 2022 06:58:55 +0530",
-                    "content": {
-                        "_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/960/2022/06/22/orig_0_1655861272.jpg",
-                        "_type": "image/jpeg",
-                        "_width": "1000",
-                        "_height": "1000",
-                        "__prefix": "media"
-                    }
-                },
-                {
-                    "title": {
-                        "__cdata": " ઉજવણી:ગોધરા પોલીસ પરેડ ગ્રાઉન્ડ ખાતે યોગ દિવસની ઉજવણી "
-                    },
-                    "link": [
-                        "https://www.divyabhaskar.co.in/local/gujarat/panchmahal/news/yoga-day-celebration-at-godhra-police-parade-ground-129965619.html",
-                        {
-                            "_href": "https://www.divyabhaskar.co.in/local/gujarat/panchmahal/news/yoga-day-celebration-at-godhra-police-parade-ground-129965619.html",
-                            "__prefix": "atom"
-                        }
-                    ],
-                    "guid": {
-                        "_isPermaLink": "true",
-                        "__text": "https://www.divyabhaskar.co.in/local/gujarat/panchmahal/news/yoga-day-celebration-at-godhra-police-parade-ground-129965619.html"
-                    },
-                    "description": {
-                        "__cdata": " યોગને વિશ્વ ફલક પર ઓળખ આપવાનું ભગીરથ કાર્ય પ્રધાનમંત્રીએ કર્યુ છે : ધારાસભ્ય "
-                    },
-                    "pubDate": "Wed, 22 Jun 2022 06:58:06 +0530",
-                    "content": {
-                        "_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/960/2022/06/22/orig_27_1655861285.jpg",
-                        "_type": "image/jpeg",
-                        "_width": "1000",
-                        "_height": "1000",
-                        "__prefix": "media"
-                    }
-                },
-                {
-                    "title": {
-                        "__cdata": " નિવેદન:આઘાડીમાં રહેવું જોઈએ કે તે વિચારવાની જરૂરઃ નસીમ ખાન "
-                    },
-                    "link": [
-                        "https://www.divyabhaskar.co.in/local/gujarat/mumbai/news/need-to-think-in-the-forefront-naseem-khan-129965617.html",
-                        {
-                            "_href": "https://www.divyabhaskar.co.in/local/gujarat/mumbai/news/need-to-think-in-the-forefront-naseem-khan-129965617.html",
-                            "__prefix": "atom"
-                        }
-                    ],
-                    "guid": {
-                        "_isPermaLink": "true",
-                        "__text": "https://www.divyabhaskar.co.in/local/gujarat/mumbai/news/need-to-think-in-the-forefront-naseem-khan-129965617.html"
-                    },
-                    "description": {
-                        "__cdata": " સત્તામાં રહીને અમને શું મળી રહ્યું છે "
-                    },
-                    "pubDate": "Wed, 22 Jun 2022 06:56:49 +0530",
-                    "content": {
-                        "_url": "https://images.bhaskarassets.com/thumb/1000x1000/web2images/960/2022/06/22/orig_00_1655861178.jpg",
-                        "_type": "image/jpeg",
-                        "_width": "1000",
-                        "_height": "1000",
-                        "__prefix": "media"
-                    }
-                },
-                {
-                    "title": {
-                        "__cdata": " શિંદેનો રોચક પ્રવાસ:રિક્ષા ચાલકથી કેબિનેટ મંત્રી વાયા શાખા પ્રમુખ "
-                    },
-                    "link": [
-                        "https://www.divyabhaskar.co.in/local/gujarat/mumbai/news/from-rickshaw-puller-to-cabinet-minister-via-branch-president-129965611.html",
-                        {
-                            "_href": "https://www.divyabhaskar.co.in/local/gujarat/mumbai/news/from-rickshaw-puller-to-cabinet-minister-via-branch-president-129965611.html",
-                            "__prefix": "atom"
-                        }
-                    ],
-                    "guid": {
-                        "_isPermaLink": "true",
-                        "__text": "https://www.divyabhaskar.co.in/local/gujarat/mumbai/news/from-rickshaw-puller-to-cabinet-minister-via-branch-president-129965611.html"
-                    },
-                    "description": {
-                        "__cdata": " સાતારામાં જન્મેલા શિંદેની કર્મભૂમિ થાણે શહેર રહ્યું છે "
-                    },
-                    "pubDate": "Wed, 22 Jun 2022 06:47:46 +0530"
-                },
-                {
-                    "title": {
-                        "__cdata": " કાર્યવાહી:ખેતરમાંથી નીકળવા મુદ્દે તકરાર કરી પથ્થર મારી મહિલાનું માથું ફોડ્યું "
-                    },
-                    "link": [
-                        "https://www.divyabhaskar.co.in/local/gujarat/dahod/news/after-quarreling-over-leaving-the-farm-a-stone-smashed-into-my-womans-head-129965610.html",
-                        {
-                            "_href": "https://www.divyabhaskar.co.in/local/gujarat/dahod/news/after-quarreling-over-leaving-the-farm-a-stone-smashed-into-my-womans-head-129965610.html",
-                            "__prefix": "atom"
-                        }
-                    ],
-                    "guid": {
-                        "_isPermaLink": "true",
-                        "__text": "https://www.divyabhaskar.co.in/local/gujarat/dahod/news/after-quarreling-over-leaving-the-farm-a-stone-smashed-into-my-womans-head-129965610.html"
-                    },
-                    "description": {
-                        "__cdata": " હુમલાખોર મહિલાએ નાક ઉપર બચકું ભર્યુ "
-                    },
-                    "pubDate": "Wed, 22 Jun 2022 06:46:55 +0530"
                 }
-          
+            ]
+        },
+        "_xmlns:media": "http://search.yahoo.com/mrss/",
+        "_xmlns:atom": "http://www.w3.org/2005/Atom",
+        "_version": "2.0"
+    }
+}
